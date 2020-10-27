@@ -13,6 +13,7 @@ I could have easily started at a much more difficult spot. But, I wanted to kind
 ### Day 1: October 27, 2020
 
 **Today's Progress**:
+32% to 
 
 **Thoughts**:
 
