@@ -13,8 +13,20 @@ I could have easily started at a much more difficult spot. But, I wanted to kind
 ### Day 1: October 27, 2020
 
 **Today's Progress**:
-32% to 
+I made some good progress again today. Started back up with arrays. I managed to go from 32% to 66%. I know it's not a race, but I feel pretty eager to get back to the challenging stuff. Today's session went over some basic array manipulation, how to access elements, function declaration and invocation, and conditional logic.
 
 **Thoughts**:
+Take-aways... shift removes stuff from the front of an array, unshift adds stuff to the front of an array. Parameters are not arguments. Strict equality/inequality versus non-strict. Logic matters when performing if else statements. Still slightly feeling behind the curve, but you gotta have your basics down. I'll feel better once I move onto objects and ES6 stuff.
 
-**Link to work** [Placeholder](http://www.example.com)
+**Link to work:** [JavaScript Basics](https://github.com/jdemarc/100-days-of-code/tree/main/JavaScript%20Basics)
+
+### Day 2: October 28, 2020
+
+**Today's Progress**:
+TBD
+
+**Thoughts**:
+TBD
+
+**Link to work:**
+TBD
