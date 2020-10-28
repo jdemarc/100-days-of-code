@@ -24,7 +24,7 @@ Take-aways... shift removes stuff from the front of an array, unshift adds stuff
 
 **Today's Progress**:
 Starting at 66%
-
+Switch Statements, Objects
 
 **Thoughts**:
 TBD

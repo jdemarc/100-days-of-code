@@ -69,6 +69,7 @@ function countingCards(card) {
 // A better solution.
 var count = 0;
 function cc(card) {
+  // Matches J, Q, K, or A one time.
   var regex = /[JQKA]/;
 
   if (card > 1 && card < 7) {
