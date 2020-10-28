@@ -23,7 +23,8 @@ Take-aways... shift removes stuff from the front of an array, unshift adds stuff
 ### Day 2: October 28, 2020
 
 **Today's Progress**:
-TBD
+Starting at 66%
+
 
 **Thoughts**:
 TBD
