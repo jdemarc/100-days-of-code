@@ -20,7 +20,7 @@ Take-aways... shift removes stuff from the front of an array, unshift adds stuff
 
 **Link to work:** [JavaScript Basics](https://github.com/jdemarc/100-days-of-code/tree/main/JavaScript%20Basics)
 
-### Day 2: October 28, 2020
+### Day 2, Session 1: October 28, 2020
 
 **Today's Progress**:
 Started at 66% and end at 84% of FCC's JavaScript Algorithms and Data Structures. I briefly reviewed switch statements and then got into objects. I reviewed objects and how to access, update, and delete them. I completed a few challenges and organized my material a bit more.
@@ -28,6 +28,16 @@ Switch Statements, Objects
 
 **Thoughts**:
 Finally, I got to start thinking a bit more critically. I'm practicing a cycle of "do it, do it right, and do it better" which I definitely was able to use for the two challenges I got done today. I spent a bit more time than an hour today, but that's because I wanted to really check out the answers to the challenges and understand the improved solutions.
+
+**Link to work:** [JavaScript Basics](https://github.com/jdemarc/100-days-of-code/tree/main/JavaScript%20Basics)
+
+### Day 2, Session 2: October 28, 2020
+
+**Today's Progress**:
+Had the time, so I figured I'd keep coding. Percentage wise, I went from 84 to 92. I finished another challenge using loops and objects, and I make sure I can repeat them a few times. I also got to review recursion a bit.
+
+**Thoughts**:
+Manipulating objects in a realistic way does not seem very intuitive to me. But, it just means I need to practice them more. I think I solidified my understanding of the recursive base case at least.
 
 **Link to work:** [JavaScript Basics](https://github.com/jdemarc/100-days-of-code/tree/main/JavaScript%20Basics)
 
