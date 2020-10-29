@@ -44,12 +44,17 @@ Manipulating objects in a realistic way does not seem very intuitive to me. But,
 ### Day 3, Session 1: October 29, 2020
 
 **Today's Progress**:
-92 - X
-Random Numbers
-parseInt
-ternary operator
+Fully completed the Basic JavaScript portion of FCC's JavaScript Algorithms and Data Structures lesson. The last 8 percent dealt with random numbers, parseInt, the ternary operator, and a bit more recursion.
 
 **Thoughts**:
-TBD
+While I'm still technically just reviewing, it felt pretty good to easily complete the final recursive challenge (despite struggling a bit with the previous). It really does take some thinking outside the box to find certain solutions. I definitely learned a thing or two throughout this lesson, and I think it'll stick better since I've done it before.
+
+**Link to work:** [JavaScript Basics](https://github.com/jdemarc/100-days-of-code/tree/main/JavaScript%20Basics)
+
+### Day 3, Session 2: October 29, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
 
 <!-- **Link to work:** [JavaScript Basics](https://github.com/jdemarc/100-days-of-code/tree/main/JavaScript%20Basics) -->
