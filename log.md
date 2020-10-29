@@ -54,6 +54,9 @@ While I'm still technically just reviewing, it felt pretty good to easily comple
 ### Day 3, Session 2: October 29, 2020
 
 **Today's Progress**:
+Started ES6 module. 0% - x%
+Topics: var and let, comparing scope of var and let, const, 
+
 
 **Thoughts**:
 
