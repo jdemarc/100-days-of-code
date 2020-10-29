@@ -54,10 +54,10 @@ While I'm still technically just reviewing, it felt pretty good to easily comple
 ### Day 3, Session 2: October 29, 2020
 
 **Today's Progress**:
-Started ES6 module. 0% - x%
-Topics: var and let, comparing scope of var and let, const, 
+Started ES6 module. 0% - 52%. Reviewed: var and let, comparing scope of var and let, const, arrow functions (without parameters, with parameters, default parameters), rest parameters, spread operator, destructuring assignment (objects, arrays, functions).
 
 
 **Thoughts**:
+Back to a bit of review, but it was much needed. Knowing these foundations will help me program with confidence. Not knowing the specific difference between simple variable declarations is a bit embarassing, but now I know better and have notes to look back on. Rest parameters, the spread operator, and destructuring will need to be reviewed once again for sure. It certainly makes your code look better!
 
-<!-- **Link to work:** [JavaScript Basics](https://github.com/jdemarc/100-days-of-code/tree/main/JavaScript%20Basics) -->
+**Link to work:** [ES6](https://github.com/jdemarc/100-days-of-code/tree/main/ES6)
