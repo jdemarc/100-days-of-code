@@ -46,6 +46,8 @@ Manipulating objects in a realistic way does not seem very intuitive to me. But,
 **Today's Progress**:
 92 - X
 Random Numbers
+parseInt
+ternary operator
 
 **Thoughts**:
 TBD
