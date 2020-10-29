@@ -41,10 +41,11 @@ Manipulating objects in a realistic way does not seem very intuitive to me. But,
 
 **Link to work:** [JavaScript Basics](https://github.com/jdemarc/100-days-of-code/tree/main/JavaScript%20Basics)
 
-### Day 3: October 29, 2020
+### Day 3, Session 1: October 29, 2020
 
 **Today's Progress**:
-TBD
+92 - X
+Random Numbers
 
 **Thoughts**:
 TBD
