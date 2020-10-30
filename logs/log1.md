@@ -61,12 +61,13 @@ Back to a bit of review, but it was much needed. Knowing these foundations will 
 
 **Link to work:** [ES6](https://github.com/jdemarc/100-days-of-code/tree/main/ES6)
 
-### Day 4, Session 1: October 29, 2020
+### Day 4, Session 1: October 30, 2020
 
 **Today's Progress**:
-52% - x%
-template literals, object literals, concise declarative functions, class syntax, getters and setters, module script, import and named, default exporting, import * as, 
+Completed the ES6 module. Lessons went over...
+template literals, object literals, concise declarative functions, class syntax, getters and setters, module script, import and named, default exporting, import * as, promises.
 
 **Thoughts**:
+I felt pretty good with the content of today. I'm a bit curious about getters and setters since I have not seen them used in practice (except in Java, C++). I'm glad I got a bit more explanation on the finer details of importing and exporting and promises. I'm fairly proud with the progress so far. Although the subject matter was not very difficult, I will be taking some time today to look over it all again because I think it is important... especially promises.
 
-<!-- **Link to work:** [ES6](https://github.com/jdemarc/100-days-of-code/tree/main/ES6) -->
+**Link to work:** [ES6](https://github.com/jdemarc/100-days-of-code/tree/main/ES6)
