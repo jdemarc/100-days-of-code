@@ -65,7 +65,7 @@ Back to a bit of review, but it was much needed. Knowing these foundations will 
 
 **Today's Progress**:
 52% - x%
-template literals, object literals, concise declarative functions, class syntax, getters and setters,
+template literals, object literals, concise declarative functions, class syntax, getters and setters, module script, import and named, default exporting, import * as, 
 
 **Thoughts**:
 
