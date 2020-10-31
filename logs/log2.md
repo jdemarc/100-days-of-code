@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 5, Session X, October 31, 2020
+### Day 6, November 1, 2020
 
 **Today's Progress**:
 

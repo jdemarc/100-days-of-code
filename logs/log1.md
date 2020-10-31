@@ -71,3 +71,13 @@ template literals, object literals, concise declarative functions, class syntax,
 I felt pretty good with the content of today. I'm a bit curious about getters and setters since I have not seen them used in practice (except in Java, C++). I'm glad I got a bit more explanation on the finer details of importing and exporting and promises. I'm fairly proud with the progress so far. Although the subject matter was not very difficult, I will be taking some time today to look over it all again because I think it is important... especially promises.
 
 **Link to work:** [ES6](https://github.com/jdemarc/100-days-of-code/tree/main/ES6)
+
+### Day 5, October 31, 2020
+
+**Today's Progress**:
+Yesterday, I started up a new repo and started working on a front-end project. Well... maybe not a project, but an app. It's an ip address tracker. When you enter an IP address, it displays a map of the location. I am up to the point where I can query the api, geo.ipify.org, to obtain location information and use that information to generate a map using Leaflet.js and Mapbox.
+
+**Thoughts**:
+I haven't visited a pure front end project in a bit of time, so I had to ease back into it. Lots of googling for sure. I am also having to juggle 2 api keys, which from my research, cannot be maintained as a secret (as with Node.js and using dotenv). I almost scrapped it all and spun up an express app, but I didn't want to have to get a database involved.
+
+**Link to work:** [IP Address Tracker](https://github.com/jdemarc/ip-address-tracker)
