@@ -27,4 +27,12 @@ Completed the first two basic algorithm scripting challenges.
 Definitely good review playing with splice and slice and manipulating objects. I feel like I can never get enough review of it, but I'm sure eventually it'll settle in. I need to make some kind of jingle to remember push and unshift/pop and shift. I did code challenges earlier this morning, but the ones I just completed were extremely simple in comparison.
 
 **Link to work**: [Basic Data Structures](https://github.com/jdemarc/100-days-of-code/tree/main/Basic%20Data%20Structures/lessons)
-[Challenges]()
+[Basic Algorithm Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/Basic%20Algorithm%20Scripting)
+
+### Day 8, November 3, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
