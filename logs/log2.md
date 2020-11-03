@@ -21,6 +21,10 @@
 **Today's Progress**:
 Started and completed FCC's basic data structure lesson.  Topics covered included... arrays and array methods (push, unshift, pop, shift, splice, slice), use of the spread operator, and indexOf(). The second half of the lesson dealt with object manipulation using bracket and dot notation, the delete keyword, hasOwnProperty(), for...in, and Object.keys().
 
-**Thoughts**:
+Completed the first two basic algorithm scripting challenges.
 
-**Link to work**:
+**Thoughts**:
+Definitely good review playing with splice and slice and manipulating objects. I feel like I can never get enough review of it, but I'm sure eventually it'll settle in. I need to make some kind of jingle to remember push and unshift/pop and shift. I did code challenges earlier this morning, but the ones I just completed were extremely simple in comparison.
+
+**Link to work**: [Basic Data Structures](https://github.com/jdemarc/100-days-of-code/tree/main/Basic%20Data%20Structures/lessons)
+[Challenges]()
