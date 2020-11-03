@@ -19,6 +19,7 @@
 ### Day 8, November 3, 2020
 
 **Today's Progress**:
+Started and completed FCC's basic data structure lesson.  Topics covered included... arrays and array methods (push, unshift, pop, shift, splice, slice), use of the spread operator, and indexOf(). The second half of the lesson dealt with object manipulation using bracket and dot notation, the delete keyword, hasOwnProperty(), for...in, and Object.keys().
 
 **Thoughts**:
 
