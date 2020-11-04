@@ -29,7 +29,7 @@ Completed the first two basic algorithm scripting challenges.
 
 ### Day 8, November 3, 2020
 
-**Today's Progress**: Worked on the basic algorithm scripting challenges. Completed "Find the Longest Word in a String", "Factorialize a Number", "Return Largest Number in Arrays", 
+**Today's Progress**: Worked on the basic algorithm scripting challenges. Completed "Find the Longest Word in a String", "Factorialize a Number", "Return Largest Number in Arrays", "Confirm the Ending",
 
 **Thoughts**:
 
