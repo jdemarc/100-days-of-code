@@ -27,9 +27,33 @@ Completed the first two basic algorithm scripting challenges.
 **Link to work**: [Basic Data Structures](https://github.com/jdemarc/100-days-of-code/tree/main/Basic%20Data%20Structures/lessons)
 [Basic Algorithm Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/Basic%20Algorithm%20Scripting)
 
-### Day 8, November 3, 2020
+### Day 9, November 4, 2020
 
-**Today's Progress**: Worked on the basic algorithm scripting challenges. Completed "Find the Longest Word in a String", "Factorialize a Number", "Return Largest Number in Arrays", "Confirm the Ending",
+**Today's Progress**: Worked on the basic algorithm scripting challenges at FreeCodeCamp. Completed "Find the Longest Word in a String", "Factorialize a Number", "Return Largest Number in Arrays", "Confirm the Ending", "Repeat a String Repeat a String", "Truncate a String". 
+
+**Thoughts**: Got a good rep in on using slice and recursion. I feel much more comfortable with them than before. The challenges weren't too bad, but I'm sure they'll get harder. I feel pretty decent for being able to complete them with relative ease.
+
+**Link to work**: [Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/Basic%20Algorithm%20Scripting)
+
+### Day 10, November 5, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
+
+### Day 11, November 6, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
+
+### Day 12, November 7, 2020
+
+**Today's Progress**:
 
 **Thoughts**:
 
