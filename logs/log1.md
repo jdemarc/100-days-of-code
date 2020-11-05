@@ -39,7 +39,7 @@ Had the time, so I figured I'd keep coding. Percentage wise, I went from 84 to 9
 **Thoughts**:
 Manipulating objects in a realistic way does not seem very intuitive to me. But, it just means I need to practice them more. I think I solidified my understanding of the recursive base case at least.
 
-**Link to work**: [JavaScript Basics](https://github.com/jdemarc/100-days-of-code/tree/main/JavaScript%20Basics)
+**Link to work**: [JavaScript Basics](https://github.com/jdemarc/100-days-of-code/tree/main/js-basics)
 
 ### Day 3, Session 1: October 29, 2020
 
@@ -49,7 +49,7 @@ Fully completed the Basic JavaScript portion of FCC's JavaScript Algorithms and 
 **Thoughts**:
 While I'm still technically just reviewing, it felt pretty good to easily complete the final recursive challenge (despite struggling a bit with the previous). It really does take some thinking outside the box to find certain solutions. I definitely learned a thing or two throughout this lesson, and I think it'll stick better since I've done it before.
 
-**Link to work**: [JavaScript Basics](https://github.com/jdemarc/100-days-of-code/tree/main/JavaScript%20Basics)
+**Link to work**: [JavaScript Basics](https://github.com/jdemarc/100-days-of-code/tree/main/js-basics)
 
 ### Day 3, Session 2: October 29, 2020
 
@@ -59,7 +59,7 @@ Started ES6 module. 0% - 52%. Reviewed: var and let, comparing scope of var and 
 **Thoughts**:
 Back to a bit of review, but it was much needed. Knowing these foundations will help me program with confidence. Not knowing the specific difference between simple variable declarations is a bit embarassing, but now I know better and have notes to look back on. Rest parameters, the spread operator, and destructuring will need to be reviewed once again for sure. It certainly makes your code look better!
 
-**Link to work**: [ES6](https://github.com/jdemarc/100-days-of-code/tree/main/ES6)
+**Link to work**: [ES6](https://github.com/jdemarc/100-days-of-code/tree/main/es6)
 
 ### Day 4, Session 1: October 30, 2020
 
@@ -70,7 +70,7 @@ template literals, object literals, concise declarative functions, class syntax,
 **Thoughts**:
 I felt pretty good with the content of today. I'm a bit curious about getters and setters since I have not seen them used in practice (except in Java, C++). I'm glad I got a bit more explanation on the finer details of importing and exporting and promises. I'm fairly proud with the progress so far. Although the subject matter was not very difficult, I will be taking some time today to look over it all again because I think it is important... especially promises.
 
-**Link to work**: [ES6](https://github.com/jdemarc/100-days-of-code/tree/main/ES6)
+**Link to work**: [ES6](https://github.com/jdemarc/100-days-of-code/tree/main/es6)
 
 ### Day 5, October 31, 2020
 
