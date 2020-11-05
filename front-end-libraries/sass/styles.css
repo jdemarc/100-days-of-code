@@ -14,4 +14,93 @@
 .blog-post-two p {
   font-size: 20px;
 }
+
+h1 {
+  text-align: center;
+}
+
+#awesome {
+  width: 150px;
+  height: 150px;
+  background-color: green;
+  border-radius: 15px;
+}
+
+#box {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  border: 3px solid black;
+}
+
+.text-1 {
+  font-size: 15px;
+}
+
+.text-2 {
+  font-size: 30px;
+}
+
+.text-3 {
+  font-size: 45px;
+}
+
+.text-4 {
+  font-size: 60px;
+}
+
+.text-5 {
+  font-size: 75px;
+}
+
+.text-6 {
+  font-size: 90px;
+}
+
+div {
+  height: 200px;
+  width: 200px;
+}
+
+.blue-bg {
+  background-color: blue;
+}
+
+.black-bg {
+  background-color: black;
+}
+
+.red-bg {
+  background-color: red;
+}
+
+.while-1 {
+  font-size: 15px;
+}
+
+.while-2 {
+  font-size: 30px;
+}
+
+.while-3 {
+  font-size: 45px;
+}
+
+.while-4 {
+  font-size: 60px;
+}
+
+.while-5 {
+  font-size: 75px;
+}
+
+.info, .info-important {
+  width: 200px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+.info-important {
+  background-color: magenta;
+}
 /*# sourceMappingURL=styles.css.map */

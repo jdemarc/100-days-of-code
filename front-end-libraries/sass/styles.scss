@@ -8,7 +8,7 @@ $text-color: green;
   color: $text-color;
 }
 
-//Nesting CSS
+// Nesting CSS
 .blog-post-two {
   h1 {
     text-align: center;
@@ -17,4 +17,80 @@ $text-color: green;
   p {
     font-size: 20px;
   }
+}
+
+// Mixins
+h1 {
+  text-align: center;
+}
+
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  -ms-border-radius: $radius;
+  border-radius: $radius;
+}
+
+#awesome {
+  width: 150px;
+  height: 150px;
+  background-color: green;
+  @include border-radius(15px);
+}
+
+// @if, @else
+@mixin border-stroke($val) {
+  @if $val == light {
+    border: 1px solid black;
+  }
+  @else if $val == medium {
+    border: 3px solid black;
+  }
+  @else if $val == heavy {
+    border: 6px solid black;
+  }
+  @else {
+    border: none;
+  }
+}
+
+#box {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  @include border-stroke(medium);
+}
+
+// @for
+@for $i from 1 through 6 {
+  .text-#{$i} { font-size: 15px * $i }
+}
+
+// @each
+div {
+  height: 200px;
+  width: 200px;
+}
+
+@each $color in blue, black, red {
+  .#{$color}-bg { background-color: $color; }
+}
+
+// @while
+$x: 1;
+@while $x < 6 {
+  .while-#{$x} { font-size: 15px * $x; }
+  $x: $x + 1;
+}
+
+// Extending CSS classes
+.info {
+  width: 200px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+.info-important {
+  @extend .info;
+  background-color: magenta;
 }
