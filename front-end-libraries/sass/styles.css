@@ -1,0 +1,17 @@
+.header {
+  text-align: center;
+}
+
+.blog-post, h2 {
+  color: green;
+}
+
+.blog-post-two h1 {
+  text-align: center;
+  color: blue;
+}
+
+.blog-post-two p {
+  font-size: 20px;
+}
+/*# sourceMappingURL=styles.css.map */

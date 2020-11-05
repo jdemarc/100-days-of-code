@@ -1,0 +1,20 @@
+// Storing variables
+$text-color: green;
+
+.header{
+  text-align: center;
+}
+.blog-post, h2 {
+  color: $text-color;
+}
+
+//Nesting CSS
+.blog-post-two {
+  h1 {
+    text-align: center;
+    color: blue;
+  }
+  p {
+    font-size: 20px;
+  }
+}
