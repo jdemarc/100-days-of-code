@@ -37,7 +37,7 @@ Completed the first two basic algorithm scripting challenges.
 
 ### Day 10, November 5, 2020
 
-**Today's Progress**:
+**Today's Progress**: Completed Front End Library SASS (Syntactically Awesome Style Sheets) lesson, basic algorithm scripting challenge 'Finders Keepers', 
 
 **Thoughts**:
 
