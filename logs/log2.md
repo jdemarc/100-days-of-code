@@ -54,8 +54,8 @@ Completed the first two basic algorithm scripting challenges.
 
 ### Day 12, November 7, 2020
 
-**Today's Progress**:
+**Today's Progress**: Still working through Cypress tutorial, but not much progress was made. The tutorial is only about a year old, but the code does not seem to run as well.
 
-**Thoughts**:
+**Thoughts**: Although I'm not making large code submissions or frequent commits during this time, I'm learning quite a bit through actual troubleshooting. The tutorial tests don't run as intended, so I have to figure out why!
 
-**Link to work**:
+**Link to work**: [Cypress](https://github.com/jdemarc/cypress-playground)
