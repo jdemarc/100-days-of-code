@@ -46,11 +46,11 @@ Completed the first two basic algorithm scripting challenges.
 
 ### Day 11, November 6, 2020
 
-**Today's Progress**:
+**Today's Progress**: Today I got a little bit of time working with Cypress. I actually started yesterday, but did other things as well. I got through a few tutorials and started trying to apply it to one of my projects, Parley.
 
-**Thoughts**:
+**Thoughts**: Cypress seems pretty useful really... I mean, it's automated testing. I really like how I can create a cypress code base that I can use to test any of my projects. But, to be honest, I didn't get as much progress as I would have hoped. One of the tests does not work when it's separated out, so that's something I'll have to investigate.
 
-**Link to work**:
+**Link to work**: [Cypress](https://github.com/jdemarc/cypress-playground)
 
 ### Day 12, November 7, 2020
 
