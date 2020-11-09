@@ -8,6 +8,14 @@
 
 ### Day 14, November 9, 2020
 
+**Today's Progress**: I finished the remaining basic algorithm scripting section of FCC, and I started going through the Object Oriented Programming lesson. I also set up for a front end project for the near future.
+
+**Thoughts**: I was much more motivated to code today than yesterday. I must have been irritable yesterday--the heat, animals being restless, not understanding code properly--but today was better. You gotta have bad days to have good days.
+
+**Link to work**: [Lessons](https://github.com/jdemarc/100-days-of-code/tree/main/oop), [Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/basic-algorithm-scripting)
+
+### Day 15, November 10, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
