@@ -149,3 +149,21 @@ Dog.prototype = {
   // }
 };
 
+// An object inherits its prototype directly from the constructor
+// of the object that creates it.
+
+function Dog(name) {
+  this.name = name;
+}
+
+let beagle = new Dog("Snoopy");
+
+Dog.prototype.isPrototypeOf(beagle);
+
+// All JS objects have a prototype (some exceptions).
+// An object's prototype is also an object.
+
+// Because prototype is an object, a prototype can have its own prototype.
+// the prototype of Dog.prototype is Object.prototype.
+
+Object.prototype.isPrototypeOf(Dog.prototype);

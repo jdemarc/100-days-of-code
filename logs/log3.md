@@ -16,6 +16,14 @@
 
 ### Day 15, November 10, 2020
 
+**Today's Progress**: Today, I completed the Object Oriented Programming Section. I reviewed things such as inheritance, IIFEs, and closures.
+
+**Thoughts**: Most of the education I've received did not dive as far into the prototype property of objects. I also have not seen much use of closures, but I have seen the use of IIFE's as modules. It's interesting to see what gets covered across different educating platforms.
+
+**Link to work**: [OOP Lessons](https://github.com/jdemarc/100-days-of-code/tree/main/oop)
+
+### Day 16, November 11, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
