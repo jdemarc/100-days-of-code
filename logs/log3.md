@@ -30,7 +30,7 @@
 
 **Link to work**: [My Easybank Landing](https://github.com/jdemarc/easybank-landing)
 
-### Day 16, November 11, 2020
+### Day 17, November 12, 2020
 
 **Today's Progress**:
 
