@@ -24,6 +24,14 @@
 
 ### Day 16, November 11, 2020
 
+**Today's Progress**: Started coding Frontend Mentor's [Easybank Landing Page](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Completed the nav bar and started getting into the intro/header section.
+
+**Thoughts**: I would like to get strong with HTML and CSS, so this is how I'll do it. I read lessons, but I'm more of a doer. do-er. dougher.
+
+**Link to work**: [My Easybank Landing](https://github.com/jdemarc/easybank-landing)
+
+### Day 16, November 11, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
