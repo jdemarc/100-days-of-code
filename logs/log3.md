@@ -32,6 +32,14 @@
 
 ### Day 17, November 12, 2020
 
+**Today's Progress**: I continued to work on my Easybank Landing Page. I made some big moves with object-fit, which I had previously not used. I *think* I completed the 'intro' section of the page.
+
+**Thoughts**: I was able to explore some CSS I typically did not use. object-fit, object-position, position: absolute specifically. It was a little frustrating at first, spamming dev tools and trying to add properties to see what worked but eventually I got something pretty darn good looking.
+
+**Link to work**: [My Easybank Landing](https://github.com/jdemarc/easybank-landing)
+
+### Day 18, November 13, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
