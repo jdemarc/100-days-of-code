@@ -40,6 +40,14 @@
 
 ### Day 18, November 13, 2020
 
+**Today's Progress**: I started reviewing Python due to some life circumstances which warranted looking back at the language. I spent some time on websites such as [W3 Schools](https://www.w3schools.com/python/default.asp) and [TutorialsPoint](https://www.tutorialspoint.com/python/index.htm) working through the very basics again.
+
+**Thoughts**: I definitely need some refresher with Python after having been on full blast JS for the past weeks. It's true, I was in the middle of a front end challenge, but I will need to return to that once I have completed my Python review. I would like to get to the point of being able to complete some coding challenges with Python and then I will come back to the Easybank Landing page.  Alternatively, I could work on Python during one period and Easybank in a separate session. We'll see how I feel.
+
+**Link to work**: [Python Basics](https://github.com/jdemarc/100-days-of-code/blob/main/py-basics/lessons/variables.py)
+
+### Day 19, November 14, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
