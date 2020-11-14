@@ -44,12 +44,20 @@
 
 **Thoughts**: I definitely need some refresher with Python after having been on full blast JS for the past weeks. It's true, I was in the middle of a front end challenge, but I will need to return to that once I have completed my Python review. I would like to get to the point of being able to complete some coding challenges with Python and then I will come back to the Easybank Landing page.  Alternatively, I could work on Python during one period and Easybank in a separate session. We'll see how I feel.
 
-**Link to work**: [Python Basics](https://github.com/jdemarc/100-days-of-code/blob/main/py-basics/lessons/variables.py)
+**Link to work**: [Python Basics](https://github.com/jdemarc/100-days-of-code/tree/main/py-basics)
 
 ### Day 19, November 14, 2020
 
-**Today's Progress**: Completed the second section of the landing page, styling and content. Began working on the third section, latest articles.
+**Today's Progress**:
+Session 1: Completed the second section of the landing page, styling and content. Began working on the third section, latest articles.
+Session 2: Python... for a long time. I completed all of HackerRank's tutorial Python challenges.
 
-**Thoughts**: I'm trying to think of different ways to containerize my CSS. Most of the time, I just want to throw a class on it. Maybe that is a way, but I'm a minimalist at heart, so I want to see what I can do. I can definitely condense some of the classes for the EasyBank landing page. What I have right now just gets the elements where I want them.
+**Thoughts**:
+Session 1: I'm trying to think of different ways to containerize my CSS. Most of the time, I just want to throw a class on it. Maybe that is a way, but I'm a minimalist at heart, so I want to see what I can do. I can definitely condense some of the classes for the EasyBank landing page. What I have right now just gets the elements where I want them.
 
-**Link to work**: [My Easybank Landing](https://github.com/jdemarc/easybank-landing)
+Session 2: I'm too tired to write a cohesive summary. So, here's a little list.
+- It's a little confusing switching between two languages.
+- Python feels a bit more intuitive and looks cleaner.
+- I need more time with the built in methods.
+
+**Link to work**: [My Easybank Landing](https://github.com/jdemarc/easybank-landing), [Python Basics](https://github.com/jdemarc/100-days-of-code/tree/main/py-basics)
