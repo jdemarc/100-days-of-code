@@ -48,8 +48,8 @@
 
 ### Day 19, November 14, 2020
 
-**Today's Progress**:
+**Today's Progress**: Completed the second section of the landing page, styling and content. Began working on the third section, latest articles.
 
-**Thoughts**:
+**Thoughts**: I'm trying to think of different ways to containerize my CSS. Most of the time, I just want to throw a class on it. Maybe that is a way, but I'm a minimalist at heart, so I want to see what I can do. I can definitely condense some of the classes for the EasyBank landing page. What I have right now just gets the elements where I want them.
 
-**Link to work**:
+**Link to work**: [My Easybank Landing](https://github.com/jdemarc/easybank-landing)
