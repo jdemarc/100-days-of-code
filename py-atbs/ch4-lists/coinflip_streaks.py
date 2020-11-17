@@ -9,59 +9,29 @@ what percentage of the coin flips contains a streak of six heads or tails in a r
 As a hint, the function call random.randint(0, 1) will return a 0 value 50% of the time and a 1 value the other 50% of the time.
 '''
 
-#######################################
-# I AM BROKEN AND DO NOT WORK.
-#######################################
-
 import random
 
-def calc_streak_chance():
-  streak_count = 0
-  consecutive_count = 0
+consecutive_count = 0
+streak_count = 0
 
-  for trial in range(1):
-    # for trial in range(10000):
-    val_list = []
+for trial in range(10000):
+    flip_list = []
 
-    # Create list of 100 heads or tails.
-    for val in range(10):
-      # for val in range(100)
+    for i in range(100):
+      # Create a list of 100 values, randomly 0 or 1.
+        flip_list.append(random.randint(0,1))
 
-      # Generate a random number.
-      head_tail = random.randint(0, 1)
+    for i in range(len(flip_list)):
+        # if i==0:
+        #     pass
+        if flip_list[i] == flip_list[i-1]:
+            consecutive_count += 1
+        else:
+            consecutive_count = 0
 
-      # Append it to the list.
-      val_list.append(head_tail)
+        if consecutive_count == 6:
+            streak_count += 1
 
-    # Check for streak of 6
-    current = val_list[0]
-    print (val_list)
+print('Chance of streak: %s%%' % (streak_count / (100*10000)))
 
-    for num in val_list:
-    # For each number in the list,
-
-      if num == current:
-      # If num matches the current, (and it should), increment consecutive counter.
-
-        consecutive_count += 1
-
-        if consecutive_count == 2:
-        # If X consecutives are found, reset the consecutive count and increment the streak count.
-
-          consecutive_count = 0
-          streak_count += 1
-
-      else:
-      # Reset the consecutive count and update the current value.
-        consecutive_count = 0
-        current = num
-    
-    # print('Current', current)
-    # print(val_list)
-
-    print(streak_count)
-
-
-  # print(streak_count/100)
-
-calc_streak_chance()
+#https://stackoverflow.com/questions/60658830/automate-the-boring-stuff-coin-flip-streaks
