@@ -21,8 +21,8 @@ grid = [['.', '.', '.', '.', '.', '.'],
 
 for j in range(len(grid[0])):
   for i in range(len(grid)):
-    
+
     # Print the characters, transposed, with no newline character.
     print(grid[i][j], end='')
   # Essentially add a newline character.
-  print('')
+  print()
