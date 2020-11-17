@@ -21,3 +21,11 @@
 **Thoughts**: I got a bit frustrated with the coinflip, and I needed to check out the StackOverflow. The confusion related more to what the question was asking. Was it the number of 6 streaks in 100 or just if a streak of 6 occurs? Does 7+ count as a streak? I settled with a response I found and have referenced in the file.
 
 **Link to work**: [Python](https://github.com/jdemarc/100-days-of-code/tree/main/py-atbs)
+
+### Day 23, November 18, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
