@@ -8,6 +8,14 @@
 
 ### Day 21, November 16, 2020
 
+**Today's Progress**: I worked on Python today! I am going through an e-book, [Automate the Boring Stuff](https://automatetheboringstuff.com/), and made it through about 2 chapters. I completed two challenges and made some good progress on the third.
+
+**Thoughts**: I believe that I spent my time very well today. I would read a chapter and attempt to do the coding 'projects'. There are no answers to the projects (that I know of), so I was forced to really think about the solutions. This is big.
+
+**Link to work**: [Python](https://github.com/jdemarc/100-days-of-code/tree/main/py-atbs)
+
+### Day 22, November 17, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
