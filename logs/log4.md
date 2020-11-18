@@ -24,6 +24,14 @@
 
 ### Day 23, November 18, 2020
 
+**Today's Progress**: I started working on the functional programming section of FCC's curriculum. I got about 4 lessons done.
+
+**Thoughts**: I'm bouncing around more than I'd like. I need to really stick to one language and stay on it. I'm being pulled in a few different directions lately which is the reason for my... inconsistency. I'm thinking I just slow down, stick to one, and chill. But which one!?
+
+**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/lessons)
+
+### Day 23, November 18, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
