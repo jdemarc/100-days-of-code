@@ -30,7 +30,7 @@
 
 **Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/lessons)
 
-### Day 23, November 18, 2020
+### Day 24, November 19, 2020
 
 **Today's Progress**:
 
