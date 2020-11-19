@@ -32,6 +32,14 @@
 
 ### Day 24, November 19, 2020
 
+**Today's Progress**: I worked through some Hackerrank Challenges today. Counting Valleys, Jumping on the Clouds, and Arrays: Left Rotation were among the challenges.
+
+**Thoughts**: These challenges are, for sure, humbling. That's about all I have to say on that... My primary goal for these is to accomplish the task. Refinement will come later.
+
+**Link to work**: [HR Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/hackerrank)
+
+### Day 25, November 20, 2020
+
 **Today's Progress**:
 
 **Thoughts**:
