@@ -40,8 +40,8 @@
 
 ### Day 25, November 20, 2020
 
-**Today's Progress**:
+**Today's Progress**: I did a Hackerrank assessment today and in a separate session worked through some introductory stuff in Hackerrank involving try, catch, and finally.
 
-**Thoughts**:
+**Thoughts**: Without revealing anything, the assessment was stressful but certainly doable. I was more in my own head than anything else. I was definitely burnt after the test but still wanted to add something to this repo.
 
-**Link to work**:
+**Link to work**: [HR Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/hackerrank)
