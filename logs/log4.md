@@ -45,3 +45,11 @@
 **Thoughts**: Without revealing anything, the assessment was stressful but certainly doable. I was more in my own head than anything else. I was definitely burnt after the test but still wanted to add something to this repo.
 
 **Link to work**: [HR Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/hackerrank)
+
+### Day 26, November 21, 2020
+
+**Today's Progress**: I was able to complete one challenge, Cats and a Mouse, by myself. I attempted another, Drawing Book, but I was unable to make any real progress, so I looked it up.
+
+**Thoughts**: I need to really isolate myself so I can get into some deep thinking. Too many distractions that I need to be more strict about.
+
+**Link to work**: [HR Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/hackerrank)
