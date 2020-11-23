@@ -5,3 +5,9 @@
 **Thoughts**: Today was good. Even if it wasn't a very hard challenge, I was able to complete it entirely by myself. I went to a quiet spot and was really able to think. Then, I looked up more optimized solutions. I learned some valuable lessons. The first times didn't succeed, but I was able to think about why the test cases failed and solve the problems by looking at my own code.
 
 **Link to work**: [HR Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/hackerrank)
+
+### Day 28, November 23, 2020
+
+**Today's Progress**: I worked on SQL questions and reviewed databases and their relationships today.
+
+**Thoughts**: Today was more about reviewing some older material I learned in GA's boot camp. I feel much more comfortable with the SQL selects now, that's for sure.
