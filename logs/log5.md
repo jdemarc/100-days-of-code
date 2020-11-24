@@ -11,3 +11,12 @@
 **Today's Progress**: I worked on SQL questions and reviewed databases and their relationships today.
 
 **Thoughts**: Today was more about reviewing some older material I learned in GA's boot camp. I feel much more comfortable with the SQL selects now, that's for sure.
+
+### Day 29, November 24, 2020
+
+**Today's Progress**: I worked on SQL questions and reviewed databases and their relationships today.
+
+**Thoughts**: Today was more about reviewing some older material I learned in GA's boot camp. I feel much more comfortable with the SQL selects now, that's for sure.
+
+**Link to work**:
+
