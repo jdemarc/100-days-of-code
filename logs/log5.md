@@ -14,9 +14,9 @@
 
 ### Day 29, November 24, 2020
 
-**Today's Progress**: I worked on SQL questions and reviewed databases and their relationships today.
+**Today's Progress**: I solved three Hackerrank Challenges today.
 
-**Thoughts**: Today was more about reviewing some older material I learned in GA's boot camp. I feel much more comfortable with the SQL selects now, that's for sure.
+**Thoughts**: The difficulty of these challenges seems completely random. Maybe I'll have no idea how to approach them, or maybe I know exactly how to approach them. Sometimes, if I revisit the challenge after a day, I have better successs. Maybe I'm unconsciously thinking about it. It feels good to find the solution, but I don't feel particularly rewarded (lately).
 
-**Link to work**:
+**Link to work**: [HR Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/hackerrank)
 
