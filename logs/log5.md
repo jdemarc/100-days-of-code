@@ -20,3 +20,11 @@
 
 **Link to work**: [HR Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/hackerrank)
 
+### Day 30, November 25, 2020
+
+**Today's Progress**: I completed 25% to 29% of the FCC functional programming lessons.
+
+**Thoughts**: To be honest, I felt a bit sleepy today. I was able to complete the challenges. Some required Google, but I did not need to cheat and look at any answers. I consider that a win. Also, I have a good understanding of how to create your own objects using the map function now.
+
+**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/lessons)
+
