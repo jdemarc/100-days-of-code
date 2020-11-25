@@ -7,21 +7,32 @@
 
 var bookList = ["The Hound of the Baskervilles", "On The Electrodynamics of Moving Bodies", "Philosophiæ Naturalis Principia Mathematica", "Disquisitiones Arithmeticae"];
 
-function add (bookList, bookName) {
-  let newList = bookList.slice(0);
-  newList.push(bookName);
-  return newList;
+// function add (bookList, bookName) {
+//   let newList = bookList.slice(0);
+//   newList.push(bookName);
+//   return newList;
   
+// }
+
+// function remove (bookList, bookName) {
+//   let newList = bookList.slice(0)
+
+//   var book_index = newList.indexOf(bookName);
+//   if (book_index >= 0) {
+//     newList.splice(book_index, 1);
+//     return newList;
+//   }
+// }
+
+function add (bList, bookName) {
+  let newList = [...bList];
+  newList.push(bookName);
+
+  return newList;
 }
 
-function remove (bookList, bookName) {
-  let newList = bookList.slice(0)
-
-  var book_index = newList.indexOf(bookName);
-  if (book_index >= 0) {
-    newList.splice(book_index, 1);
-    return newList;
-  }
+function remove (bList, bookName) {
+  return bList.filter(book => book !== bookName);
 }
 
 var newBookList = add(bookList, 'A Brief History of Time');
