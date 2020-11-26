@@ -1,8 +1,18 @@
 /**
- * Use the map Method to Extract Data from an Array
+ * Use the filter Method to Extract Data from an Array
  */
 
-// The global variable
+// filter checks each element of an array and returns a new array
+// of element for which the check returns true.
+
+// it does not modify the original array
+
+// three arguments:
+// current element, the index of that element, the array being 'filtered'
+
+// Use the filter and map methods to generate a new array of objects
+// with only title and rating keys and only with ratings >= 8.0
+
 var watchList = [
   {
     "Title": "Inception",
@@ -116,11 +126,8 @@ var watchList = [
   }
 ];
 
-// const ratings = watchList.map((movie) => ({
-//   title: movie['Title'],
-//   rating: movie['imdbRating']
-// }));
 
-const ratings = watchList.map(({ Title: title, imdbRating: rating }) => ({ title, rating }))
+var filteredList = watchList.map(({ Title: title, imdbRating: rating }) => ({
+  title, rating })).filter((movie) => parseFloat(movie.rating) >= 8.0);
 
-console.log(JSON.stringify(ratings));
+console.log(filteredList);
