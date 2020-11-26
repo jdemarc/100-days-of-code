@@ -1,0 +1,36 @@
+/**
+ * Implement map on a Prototype
+ */
+
+// map returns an array the same length as the one it is called on.
+// it does not alter the original array.
+
+// 'pure' function
+
+/**
+ * Write your own Array.prototype.myMap(), which should behave exactly like Array.prototype.map().
+ * You should not use the built-in map method.
+ * The Array instance can be accessed in the myMap method using this.
+ */
+
+var s = [23, 65, 98, 5];
+
+Array.prototype.myMap = function(callback) {
+  var newArray = [];
+
+  // for (let i = 0; i < this.length; i++) {
+  //   newArray.push(callback(this[i]));
+  // }
+
+  this.forEach((el) => {
+    newArray.push(callback(el));
+  })
+
+  return newArray;
+};
+
+var new_s = s.myMap(function(item) {
+  return item * 2;
+});
+
+console.log(new_s);
