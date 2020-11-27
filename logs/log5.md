@@ -35,3 +35,11 @@
 **Thoughts**: I found that an answer I had yesterday did work, but there were better solutions. It's probably best that even if I get the correct answer I go back and check FCC's answers. So I'll make that a habit. I usually do, but I guess I missed it this time. I'm still not super comfortable with parameter destructuring, but I feel a little better about the map and filter function.
 
 **Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/lessons)
+
+### Day 32, November 27, 2020
+
+**Today's Progress**: I completed from 42% to x% of the FCC functional programming lessons.
+
+**Thoughts**: 
+
+**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/lessons)
