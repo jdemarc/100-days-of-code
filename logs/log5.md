@@ -38,8 +38,8 @@
 
 ### Day 32, November 27, 2020
 
-**Today's Progress**: I completed from 42% to x% of the FCC functional programming lessons.
+**Today's Progress**: I completed from 42% to 63% of the FCC functional programming lessons. Slice, concat, and reduce exercises.
 
-**Thoughts**: 
+**Thoughts**: I feel fairly comfortable with slice and concat, but reduce is a whole separate thing. I definitely want to explore reduce more and get a better understanding of what it can do. Today was good, but it needs reinforcement.
 
 **Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/lessons)
