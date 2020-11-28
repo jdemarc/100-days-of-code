@@ -43,3 +43,11 @@
 **Thoughts**: I feel fairly comfortable with slice and concat, but reduce is a whole separate thing. I definitely want to explore reduce more and get a better understanding of what it can do. Today was good, but it needs reinforcement.
 
 **Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/lessons)
+
+### Day 33, November 28, 2020
+
+**Today's Progress**: I completed five additional exercises that pertain to the Array.prototype.reduce() function.
+
+**Thoughts**: I spent a lot of time reading about reduce and did a few additional exercises. The reading helps with the understanding, but I still want to dedicate some more time to understanding how you can create an object. I think I have the whole, 'sum with reduce' thing down.
+
+**Link to work**: [Reduce practice](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/)
