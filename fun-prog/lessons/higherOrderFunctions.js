@@ -16,10 +16,11 @@
 
 const squareList = (arr) => {
   return arr.reduce((acc, num) => {
-    return num > 0 && Number.isInteger(num)
-      ? acc.concat(num**2)
-      : acc
-
+    if (num > 0 && Number.isInteger(num)) {
+      return acc.concat(num**2)
+    } else {
+      return acc;
+    }
   }, [])
 };
 
