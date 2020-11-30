@@ -8,8 +8,8 @@
 
 ### Day 35, November 30, 2020
 
-**Today's Progress**: Working through FCC's functional programming 'course', I went from 75% to ..%
+**Today's Progress**: Working through FCC's functional programming 'course', I went from 75% to completion. I covered the following methods... split, join, every, and some. I also visited regular expressions briefly and touched on currying and partial applications.
 
-**Thoughts**: 
+**Thoughts**: I feel that most of today was a review, but I felt good about reinforcing the topics. I am still particularly confused by what currying/partial applications is used for. I'll take some time outside of the challenge to do some googling.
 
-**Link to work**: 
+**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/)
