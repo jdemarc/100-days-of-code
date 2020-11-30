@@ -11,6 +11,10 @@
  * The output should not have any spaces
  */
 
+
+// Make all characters lowercase. Split them by any spaces.
+// Fitler our any extra spaces and join string back using hyphens.
+
 function urlSlug(title) {
   return title
     .toLowerCase()
@@ -18,5 +22,16 @@ function urlSlug(title) {
     .filter((s) => s !== '')
     .join('-');
 }
+
+/*
+function urlSlug(title) {
+  return title
+    .toLowerCase()
+    .trim()
+    // Split at any whitespace character that appears at least once.
+    .split(/\s+/)
+    .join('-');
+}
+*/
 
 console.log(urlSlug(' Winter Is Coming'));
