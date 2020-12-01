@@ -16,8 +16,8 @@
 
 ### Day 36, December 1, 2020
 
-**Today's Progress**: 
+**Today's Progress**: I completed two of the intermediate algorithm scripting challenges at FCC. The first one was to find the sum of the range between two numbers, inclusive.  The second was to find the set difference between two arrays.
 
-**Thoughts**: 
+**Thoughts**: I was able to complete the first challenge without any issues. Just good ole thinking. The second one I struggled with, and went to check out google. I tried some of those, but it wasn't giving me what I was looking for.  After looking at the hints from FCC, I was able to figure it out. Just being given the methods helped significantly.
 
-**Link to work**: [Placeholder]()
+**Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
