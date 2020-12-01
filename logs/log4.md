@@ -12,7 +12,7 @@
 
 **Thoughts**: I believe that I spent my time very well today. I would read a chapter and attempt to do the coding 'projects'. There are no answers to the projects (that I know of), so I was forced to really think about the solutions. This is big.
 
-**Link to work**: [Python](https://github.com/jdemarc/100-days-of-code/tree/main/py-atbs)
+**Link to work**: [Python](https://github.com/jdemarc/100-days-of-code/tree/main/atbs/py-atbs)
 
 ### Day 22, November 17, 2020
 
@@ -20,7 +20,7 @@
 
 **Thoughts**: I got a bit frustrated with the coinflip, and I needed to check out the StackOverflow. The confusion related more to what the question was asking. Was it the number of 6 streaks in 100 or just if a streak of 6 occurs? Does 7+ count as a streak? I settled with a response I found and have referenced in the file.
 
-**Link to work**: [Python](https://github.com/jdemarc/100-days-of-code/tree/main/py-atbs)
+**Link to work**: [Python](https://github.com/jdemarc/100-days-of-code/tree/main/atbs/py-atbs)
 
 ### Day 23, November 18, 2020
 
@@ -28,7 +28,7 @@
 
 **Thoughts**: I'm bouncing around more than I'd like. I need to really stick to one language and stay on it. I'm being pulled in a few different directions lately which is the reason for my... inconsistency. I'm thinking I just slow down, stick to one, and chill. But which one!?
 
-**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/lessons)
+**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/fun-prog)
 
 ### Day 24, November 19, 2020
 

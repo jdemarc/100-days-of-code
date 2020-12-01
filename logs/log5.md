@@ -26,7 +26,7 @@
 
 **Thoughts**: To be honest, I felt a bit sleepy today. I was able to complete the challenges. Some required Google, but I did not need to cheat and look at any answers. I consider that a win. Also, I have a good understanding of how to create your own objects using the map function now.
 
-**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/lessons)
+**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/fun-prog)
 
 ### Day 31, November 26, 2020
 
@@ -34,7 +34,7 @@
 
 **Thoughts**: I found that an answer I had yesterday did work, but there were better solutions. It's probably best that even if I get the correct answer I go back and check FCC's answers. So I'll make that a habit. I usually do, but I guess I missed it this time. I'm still not super comfortable with parameter destructuring, but I feel a little better about the map and filter function.
 
-**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/lessons)
+**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/fun-prog)
 
 ### Day 32, November 27, 2020
 
@@ -42,7 +42,7 @@
 
 **Thoughts**: I feel fairly comfortable with slice and concat, but reduce is a whole separate thing. I definitely want to explore reduce more and get a better understanding of what it can do. Today was good, but it needs reinforcement.
 
-**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/lessons)
+**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/fun-prog)
 
 ### Day 33, November 28, 2020
 
@@ -50,4 +50,4 @@
 
 **Thoughts**: I spent a lot of time reading about reduce and did a few additional exercises. The reading helps with the understanding, but I still want to dedicate some more time to understanding how you can create an object. I think I have the whole, 'sum with reduce' thing down.
 
-**Link to work**: [Reduce practice](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/)
+**Link to work**: [Reduce practice](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/fun-prog)

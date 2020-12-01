@@ -4,7 +4,7 @@
 
 **Thoughts**: Reduce is still tricky. I think I'm getting the hang of it -- for doing things like creating arrays and such -- but it's a work in progress. I may need to watch a few videos. I'm trying to turn whatever functions I can into reduce functions as practice.
 
-**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/)
+**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/fun-prog)
 
 ### Day 35, November 30, 2020
 
@@ -12,4 +12,12 @@
 
 **Thoughts**: I feel that most of today was a review, but I felt good about reinforcing the topics. I am still particularly confused by what currying/partial applications is used for. I'll take some time outside of the challenge to do some googling.
 
-**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fun-prog/)
+**Link to work**: [Functional Programming](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/fun-prog)
+
+### Day 36, December 1, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: [Placeholder]()
