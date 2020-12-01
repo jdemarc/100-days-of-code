@@ -12,7 +12,7 @@
 
 **Thoughts**: I was much more motivated to code today than yesterday. I must have been irritable yesterday--the heat, animals being restless, not understanding code properly--but today was better. You gotta have bad days to have good days.
 
-**Link to work**: [Lessons](https://github.com/jdemarc/100-days-of-code/tree/main/oop), [Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/basic-algorithm-scripting)
+**Link to work**: [OOP](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/oop), [Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/basic-algorithm-scripting)
 
 ### Day 15, November 10, 2020
 
@@ -20,7 +20,7 @@
 
 **Thoughts**: Most of the education I've received did not dive as far into the prototype property of objects. I also have not seen much use of closures, but I have seen the use of IIFE's as modules. It's interesting to see what gets covered across different educating platforms.
 
-**Link to work**: [OOP Lessons](https://github.com/jdemarc/100-days-of-code/tree/main/oop)
+**Link to work**: [OOP](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/oop)
 
 ### Day 16, November 11, 2020
 

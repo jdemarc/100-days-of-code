@@ -24,8 +24,8 @@ Completed the first two basic algorithm scripting challenges.
 
 **Thoughts**: Definitely good review playing with splice and slice and manipulating objects. I feel like I can never get enough review of it, but I'm sure eventually it'll settle in. I need to make some kind of jingle to remember push and unshift/pop and shift. I did code challenges earlier this morning, but the ones I just completed were extremely simple in comparison.
 
-**Link to work**: [Basic Data Structures](https://github.com/jdemarc/100-days-of-code/tree/main/basic-data-structures/lessons), 
-[Basic Algorithm Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/basic-algorithm-scripting)
+**Link to work**: [Basic Data Structures](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/basic-data-structures/lessons), 
+[Basic Algorithm Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/basic-algorithm-scripting)
 
 ### Day 9, November 4, 2020
 
@@ -33,7 +33,7 @@ Completed the first two basic algorithm scripting challenges.
 
 **Thoughts**: Got a good rep in on using slice and recursion. I feel much more comfortable with them than before. The challenges weren't too bad, but I'm sure they'll get harder. I feel pretty decent for being able to complete them with relative ease.
 
-**Link to work**: [Basic Algorithm Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/basic-algorithm-scripting)
+**Link to work**: [Basic Algorithm Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/basic-algorithm-scripting)
 
 ### Day 10, November 5, 2020
 
@@ -41,8 +41,8 @@ Completed the first two basic algorithm scripting challenges.
 
 **Thoughts**: SASS was a new library for me, so it was nice to get a bit of exposure. It doesn't seem very difficult, and it appears pretty organized. I like the ability to nest elements. The challenges today were increasingly difficult, but I was able to find some solutions and compare my answer to FCC's. I would like to work on forEach loops, so I hope there is a lesson on that soon.
 
-**Link to work**: [SASS](https://github.com/jdemarc/100-days-of-code/tree/main/front-end-libraries/sass), 
- [Basic Algorithm Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/basic-algorithm-scripting)
+**Link to work**: [SASS](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-front-end-libraries/sass), 
+ [Basic Algorithm Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/basic-algorithm-scripting)
 
 ### Day 11, November 6, 2020
 
