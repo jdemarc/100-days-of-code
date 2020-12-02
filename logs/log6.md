@@ -21,3 +21,11 @@
 **Thoughts**: I was able to complete the first challenge without any issues. Just good ole thinking. The second one I struggled with, and went to check out google. I tried some of those, but it wasn't giving me what I was looking for.  After looking at the hints from FCC, I was able to figure it out. Just being given the methods helped significantly.
 
 **Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
+
+### Day 37, December 2, 2020
+
+**Today's Progress**: I completed one intermediate algorithm challenge, and I started working on a new Frontend Mentor project. Their website can be found at frontendmentor.io. I've decided I will be using React for the project, and I've created the pages and components. I added a little bit of styling as well.
+
+**Thoughts**: The algorithm challenge was frustratingly difficult. I looked at it in the morning, and I looked at the hints. It still wasn't clicking, and each of the methods used Object.keys. I suppose I just need more time reading and rereading the challenge. With regards to the front end project, it's been some time since I made a React app. There are some subtle differences.. like not having to use import React from 'react'; on each component (which is nice). I'm interested to see how it will turn out.
+
+**Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting), [Todo Project](https://github.com/jdemarc/react-todos)
