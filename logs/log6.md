@@ -29,3 +29,11 @@
 **Thoughts**: The algorithm challenge was frustratingly difficult. I looked at it in the morning, and I looked at the hints. It still wasn't clicking, and each of the methods used Object.keys. I suppose I just need more time reading and rereading the challenge. With regards to the front end project, it's been some time since I made a React app. There are some subtle differences.. like not having to use import React from 'react'; on each component (which is nice). I'm interested to see how it will turn out.
 
 **Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting), [Todo Project](https://github.com/jdemarc/react-todos)
+
+### Day 38, December 3, 2020
+
+**Today's Progress**: I was able to add an input box, render an array of todos, and add stage some internal functions like handleSubmit and onChange.
+
+**Thoughts**: I felt a bit lost today with React. I had done an entire project with it previously, and it felt like second nature. After not having used it for close to three weeks, it's very foreign but I believe it's manageable. I just need to take it one step at a time.
+
+**Link to work**: [Todo Project](https://github.com/jdemarc/react-todos)
