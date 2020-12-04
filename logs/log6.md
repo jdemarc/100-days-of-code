@@ -37,3 +37,11 @@
 **Thoughts**: I felt a bit lost today with React. I had done an entire project with it previously, and it felt like second nature. After not having used it for close to three weeks, it's very foreign but I believe it's manageable. I just need to take it one step at a time.
 
 **Link to work**: [Todo Project](https://github.com/jdemarc/react-todos)
+
+### Day 39, December 4, 2020
+
+**Today's Progress**: I was able to add todos and delete todos and display that functionality in the browser.
+
+**Thoughts**: Alright. It's coming back. Thankfully, I took a lot of notes. And, well, there's Google. I made much more progress and did it much more easily than yesterday. I think it was just the initial shock of getting back into it. Still, I'm taking my time.
+
+**Link to work**: [Todo Project](https://github.com/jdemarc/react-todos)
