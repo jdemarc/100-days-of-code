@@ -45,3 +45,11 @@
 **Thoughts**: Alright. It's coming back. Thankfully, I took a lot of notes. And, well, there's Google. I made much more progress and did it much more easily than yesterday. I think it was just the initial shock of getting back into it. Still, I'm taking my time.
 
 **Link to work**: [Todo Project](https://github.com/jdemarc/react-todos)
+
+### Day 40, December 5, 2020
+
+**Today's Progress**: I was able to style the input box and todo list to look more similar to the project challenge prompt. The todo list styling is not complete.
+
+**Thoughts**: The project looks better. Maybe even 'good'. Lots of experimentation with styling--buttons, hover states, colors, alignment--the list goes on. There is still plenty of styling to do, but I haven't had anything really cause me any frustration.
+
+**Link to work**: [Todo Project](https://github.com/jdemarc/react-todos)
