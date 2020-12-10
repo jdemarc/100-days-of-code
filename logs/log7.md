@@ -29,3 +29,11 @@
 **Thoughts**: I've reached a break point with the todo project. It's the dark mode edition, and it does not include the toggle. There are some minor differences with design, but I'm willing to look past them for now. Overall, I'm not sure how I feel getting back into React. I definitely didn't do it the cleanest way, but I reviewed and remembered quite a bit. With regards to the coding challenge, it was too much for me. But, realistically, I may not have given myself the best opportunity to solve it (time, patience, setting, mindset).
 
 **Link to work**: [Todo Project](https://github.com/jdemarc/react-todos), [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
+
+### Day 45, December 10, 2020
+
+**Today's Progress**: I solved the pig latin challenge.
+
+**Thoughts**: 
+
+**Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
