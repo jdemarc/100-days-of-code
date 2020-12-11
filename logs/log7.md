@@ -40,7 +40,7 @@
 
 ### Day 46, December 11, 2020
 
-**Today's Progress**: 
+**Today's Progress**: I solved the search and replace challenge and walked through the DNA pairing challenge.
 
 **Thoughts**:
 
