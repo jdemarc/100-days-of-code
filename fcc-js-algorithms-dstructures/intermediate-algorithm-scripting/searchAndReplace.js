@@ -12,6 +12,8 @@
 
 function myReplace(str, before, after) {
 
+  // Could alternatively check for capital letter using regex.
+  // /^[A-Z]/
   if (before[0] === before[0].toUpperCase()) {
     after = after[0].toUpperCase() + after.slice(1);
   } else {
