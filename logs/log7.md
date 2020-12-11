@@ -40,8 +40,8 @@
 
 ### Day 46, December 11, 2020
 
-**Today's Progress**: I solved the search and replace challenge and walked through the DNA pairing challenge.
+**Today's Progress**: I solved the search and replace challenge and walked through the DNA pairing challenge and missing letter challenge.
 
-**Thoughts**:
+**Thoughts**: The first challenge seemed simple, but the other two were not. They were just approached in ways I wasn't ready to think about them. For the DNA challenge, I hadn't thought to add the pairs all at once (let alone creating an object). For the missing letters one, I didn't think to use character codes or further compare letters by their codes. There is certainly a lot to think about, but I'll get it with time.
 
 **Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
