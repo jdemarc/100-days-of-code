@@ -37,3 +37,11 @@
 **Thoughts**: It felt good to solve an intermediate challenge without help. My algorithm process was good. I broke the problem down and did what the challenge asked. Did I do it the best way? Definitely not. But the solutions from FCC showed me several different and probably more efficient ways. I didn't have enough time to start a new challenge so I looked over some debugging lessons from FCC.
 
 **Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
+
+### Day 46, December 11, 2020
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
