@@ -35,3 +35,18 @@ let fccRegex = /freecodecamp/i;
 let uncasedResult = fccRegex.test(myString);
 
 console.log('Ignoring case matching: ', uncasedResult);
+
+/**
+ * Wildcard testing
+ */
+
+// the character '.'
+// aka dot, aka period
+
+let exampleStr = "Let's have fun with regular expressions!";
+let unRegex = /un./;
+let wildResult = unRegex.test(exampleStr);
+
+console.log('Using wildcard matching: ', wildResult);
+
+// strings such as: run, sun, fun, pun, bun will match the above regex.
