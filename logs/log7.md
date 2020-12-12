@@ -48,8 +48,8 @@
 
 ### Day 47, December 12, 2020
 
-**Today's Progress**:
+**Today's Progress**: I worked through FCC's regular expression module from the beginning to about 20%. Topics covered include .test() and .match(), the 'i' and 'g' flag, the OR operator (|), and the wildcard operator (.).
 
-**Thoughts**:
+**Thoughts**: I'm becoming a little impatient with the lessons so I'm trying to mix up the grind. If I go a few days in a row of being unsuccessful with coding challenges, I want to change it up. If I start getting bored with lessons, I want to change it up. On top of that, I want to slow down. I don't know why, but I often find myself in a big rush just trying to pack everything I can into my brain. At least I've kept the language pretty consistent... and the coding too!
 
-**Link to work**:
+**Link to work**: [Regular Expressions](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/regular-expressions)
