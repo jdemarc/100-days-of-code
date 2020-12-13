@@ -17,6 +17,11 @@ but the final array should not be sorted in numerical order.
 */
 
 function uniteUnique(arr) {
+
+  // console.log(...arguments);
+  // console.log(arguments);
+  // console.log([...arguments]);
+
   let args = [...arguments];
 
   let flattened = [].concat(...args);
@@ -30,4 +35,5 @@ console.log(uniteUnique([1, 3, 2], [5, 2, 1, 4], [2, 1]));
 // Step 2: flatten arguments into a single array
 // Step 3: filter all duplicates out.
 
-// https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
+// Flattening an array --> https://stackoverflow.com/questions/14824283/convert-a-2d-javascript-array-to-a-1d-array?noredirect=1&lq=1
+// Filter out duplicates --> https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
