@@ -24,3 +24,12 @@ let starRegex = /Twinkle/gi; // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 let starResult = twinkleStar.match(starRegex);
 
 console.log('Extracting multiple patterns with g flag: ', starResult);
+
+// Match a single character with multiple possibilities with brackets, [].
+
+let quote = "Beware of bugs in the above code; I have only proved it correct, not tried it.";
+let vowelRegex = /[aeiou]/ig;
+let quoteResult = quote.match(vowelRegex);
+
+// console.log(quoteResult.length);
+console.log('Matching single char, multiple possible with brackets: ', quoteResult);
