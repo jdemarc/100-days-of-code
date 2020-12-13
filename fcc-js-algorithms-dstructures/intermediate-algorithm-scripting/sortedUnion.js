@@ -29,3 +29,5 @@ console.log(uniteUnique([1, 3, 2], [5, 2, 1, 4], [2, 1]));
 // Step 1: get all arguments into one variable.
 // Step 2: flatten arguments into a single array
 // Step 3: filter all duplicates out.
+
+// https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
