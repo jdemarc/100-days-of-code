@@ -11,17 +11,19 @@ function convertHTML(str) {
     '\'': '&apos;'
   }
 
-  let words = str.split('');
+  // let words = str.split('');
 
-  for (let i = 0; i < words.length; i++) {
-    for (let prop in html) {
-      if (words[i] === prop) {
-        words[i] = html[prop]
-      }
-    }
-  }
+  // for (let i = 0; i < words.length; i++) {
+  //   for (let prop in html) {
+  //     if (words[i] === prop) {
+  //       words[i] = html[prop]
+  //     }
+  //   }
+  // }
 
-  return words.join('');
+  // return words.join('');
+
+  return str.replace(/[&<>"']/g, match => html[match]);
 }
 
 console.log(convertHTML('Stuff in "quotation marks"'));
