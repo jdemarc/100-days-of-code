@@ -15,28 +15,22 @@ is also evenly divisible by all numbers between 1 and 3. The answer here would b
 */
 
 function smallestCommons(arr) {
-  // Need to find range from smallest to largest given range from array.
-  let nums = [];
-  
-  // Array numbers may not be given in order, so use Math.min, Math.max.
-  let a = Math.min(...arr);
-  let b = Math.max(...arr);
 
-  // Create range.
-  for (let i = a; i <= b; i++) {
-    nums.push(i);
+  let min = Math.min(...arr);
+  let max = Math.max(...arr);
+
+  let sol = max;
+
+  // Check if each value in the range is a multiple.
+    // Begin from larger numbers, as smaller numbers are more likely to be able to divide into our LCM.
+  // If there is a remainder, that means we need to increment the max.
+  for (let i = max - 1; i >= min; i--) {
+    if (sol % i) {
+      sol += max;
+      i = max;
+    }
   }
-
-  console.log(nums);
-
-  // Continuation...
-
-  // Check if all the numbers are a multiple of the max.
-  // If they are not, increment max. Check again.
-  // Continue until all numbers are a multiple of the max.
-
-
-  return arr;
+  return sol;
 }
 
 
