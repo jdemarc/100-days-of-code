@@ -21,3 +21,11 @@
 **Thoughts**: It seems that I am always able to solve one challenge and not the next. Maybe it's the way the 'cirriculum' is set up where one challenge is easier than the next and it alternates. Probably thinking too much into it... The first challenge was much of the same where I knew what to do algorithm wise, I just needed to look up the implementation. (Things like, is 1 a prime or two or negative numbers were also things looked up). Today was a lot of math, and I should expect that with coding.  Today was also unique because I will be working to continue completing a challenge tomorrow.
 
 **Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
+
+### Day 51, December 16, 2020
+
+**Today's Progress**: I stepped through the smallest common multiple challenge, and I solved the 'drop it' challenge.
+
+**Thoughts**: The theme seems the same... one easier challenge, one harder. Probably intentional. In any case, I tried to do something a little bit different this time and continue where I left off on a challenge. While it didn't let me completely solve the challenge, I found I was much more patient and understanding of it when I returned to it. I was able to walk through the challenge and really understand why it was solved the way it was... even down to the reversed loop. So, I do feel good about that. For the other challenge, I was able to solve it my own way. That's always a win for me. But, taking time to check website's solutions is always humbling.
+
+**Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
