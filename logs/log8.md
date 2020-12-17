@@ -32,8 +32,8 @@
 
 ### Day 52, December 17, 2020
 
-**Today's Progress**:
+**Today's Progress**: I continued with regular expression lessons today. I went over matching a range of numbers and letters using a hyphen, negative character sets, 
 
 **Thoughts**: 
 
-**Link to work**:
+**Link to work**: [Regular Expressions](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/regular-expressions)

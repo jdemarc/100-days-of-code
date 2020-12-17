@@ -49,3 +49,11 @@ let deliciousRegex = /[h-s2-6]/ig;
 let quoteThreeResult = quoteThree.match(deliciousRegex);
 
 console.log('Matching a range of letters and numbers: ', quoteThreeResult);
+
+// Negative character sets -- ranges we don't want, using the caret, ^.
+
+let quoteFour = "3 blind mice.";
+let magicRegex = /[^aeiou0-9]/ig;
+let quoteFourResult = quoteFour.match(magicRegex);
+
+console.log('Negative set matching: ', quoteFourResult);
