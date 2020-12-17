@@ -41,3 +41,11 @@ let alphabetRegex = /[a-z]/ig;
 let quoteTwoResult = quoteTwo.match(alphabetRegex);
 
 console.log('Matching a range with hyphen: ', quoteTwoResult);
+
+// Match letters and numbers using a hyphen.
+
+let quoteThree = "Blueberry 3.141592653s are delicious.";
+let deliciousRegex = /[h-s2-6]/ig;
+let quoteThreeResult = quoteThree.match(deliciousRegex);
+
+console.log('Matching a range of letters and numbers: ', quoteThreeResult);
