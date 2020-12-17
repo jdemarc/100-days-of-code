@@ -32,7 +32,7 @@
 
 ### Day 52, December 17, 2020
 
-**Today's Progress**: I continued with regular expression lessons today. I went over matching a range of numbers and letters using a hyphen, negative character sets, 
+**Today's Progress**: I continued with regular expression lessons today. I went over matching a range of numbers and letters using a hyphen (a-z), negative character sets (^), matching a character that appears one or more times (+), and matching a character zero or more times (*).
 
 **Thoughts**: 
 

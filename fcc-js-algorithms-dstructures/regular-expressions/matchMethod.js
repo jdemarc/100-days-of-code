@@ -57,3 +57,26 @@ let magicRegex = /[^aeiou0-9]/ig;
 let quoteFourResult = quoteFour.match(magicRegex);
 
 console.log('Negative set matching: ', quoteFourResult);
+
+// Match a character one or more times, +
+
+let difficultSpelling = "Mississippi";
+let spellingRegex = /s+/g;
+let spellingResult = difficultSpelling.match(spellingRegex);
+
+console.log('Matching repeating characters: ', spellingResult);
+
+// Match a character zero or more times, *
+
+
+/**
+ * Create a regex chewieRegex that uses the * character to match an uppercase "A" character
+ * immediately followed by zero or more lowercase "a" characters in chewieQuote.
+ * Your regex does not need flags or character classes, and it should not match any of the other quotes.
+ */
+
+let chewieQuote = "Aaaaaaaaaaaaaarrgh!";
+let chewieRegex = /Aa*/
+let chewResult = chewieQuote.match(chewieRegex);
+
+console.log('Mathcing a character zero or more times: ', chewResult);
