@@ -8,12 +8,18 @@
  */
 
 function findDigits(n) {
-  // Split number into digits.
-  // Attempt to divide n by each digit.
-  // If the remainder is 0, increment count.
-  // Return count.
+  let num = n.toString();
+  let numArr = num.split('');
 
-  return n;
+  let divisors = 0;
+
+  for (let i = 0; i < numArr.length; i++) {
+    if (n % parseInt(numArr[i]) === 0) {
+      divisors++;
+    }
+  }
+
+  return divisors;
 }
 
-console.log(findDigits(12));
+console.log(findDigits(1012));

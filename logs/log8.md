@@ -32,8 +32,8 @@
 
 ### Day 52, December 17, 2020
 
-**Today's Progress**: I continued with regular expression lessons today. I went over matching a range of numbers and letters using a hyphen (a-z), negative character sets (^), matching a character that appears one or more times (+), and matching a character zero or more times (*).
+**Today's Progress**: I continued with regular expression lessons today. I went over matching a range of numbers and letters using a hyphen (a-z), negative character sets (^), matching a character that appears one or more times (+), and matching a character zero or more times (*). I also solved the 'Find Digits' challenge at Hackerrank.
 
-**Thoughts**: 
+**Thoughts**: The regular expression lessons are important but very small. It's more like trying to memorize vocab even though its just symbols. It's good to review what can be done with them, but I think each case will be quite specific, and if I remember correctly there are lists to extract information you want practically (such as e-mail, phone number, etc). Still, it can't hurt. I broke up the lessons with a Hackerrank problem, which, I was able to solve! I think I'm getting a little bit better with this stuff.
 
-**Link to work**: [Regular Expressions](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/regular-expressions)
+**Link to work**: [Regular Expressions](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/regular-expressions), [Hackerrank](https://github.com/jdemarc/100-days-of-code/tree/main/hackerrank)
