@@ -33,3 +33,11 @@ let quoteResult = quote.match(vowelRegex);
 
 // console.log(quoteResult.length);
 console.log('Matching single char, multiple possible with brackets: ', quoteResult);
+
+// Define a range for matching using the hyphen.
+
+let quoteTwo = "The quick brown fox jumps over the lazy dog.";
+let alphabetRegex = /[a-z]/ig;
+let quoteTwoResult = quoteTwo.match(alphabetRegex);
+
+console.log('Matching a range with hyphen: ', quoteTwoResult);
