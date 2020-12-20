@@ -37,3 +37,11 @@
 **Thoughts**: The regular expression lessons are important but very small. It's more like trying to memorize vocab even though its just symbols. It's good to review what can be done with them, but I think each case will be quite specific, and if I remember correctly there are lists to extract information you want practically (such as e-mail, phone number, etc). Still, it can't hurt. I broke up the lessons with a Hackerrank problem, which, I was able to solve! I think I'm getting a little bit better with this stuff.
 
 **Link to work**: [Regular Expressions](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/regular-expressions), [Hackerrank](https://github.com/jdemarc/100-days-of-code/tree/main/hackerrank)
+
+### Day 53, December 20, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 

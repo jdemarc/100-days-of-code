@@ -79,4 +79,15 @@ let chewieQuote = "Aaaaaaaaaaaaaarrgh!";
 let chewieRegex = /Aa*/
 let chewResult = chewieQuote.match(chewieRegex);
 
-console.log('Mathcing a character zero or more times: ', chewResult);
+console.log('Matching a character zero or more times: ', chewResult);
+
+// Find characters using 'lazy matching', using the question mark, ?.
+
+// a lazy match finds the smallest possible part of a string that matches the regular expression.
+
+let lazyText = "<h1>Winter is coming</h1>";
+let lazyRegex = /<.*?>/;
+// Return the first string that begins and ends with < > with any character in between, repeating any number of times.
+let lazyResult = lazyText.match(lazyRegex);
+
+console.log('Finding characters with lazy matching: ', lazyResult);
