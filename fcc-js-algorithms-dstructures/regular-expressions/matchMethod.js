@@ -91,3 +91,11 @@ let lazyRegex = /<.*?>/;
 let lazyResult = lazyText.match(lazyRegex);
 
 console.log('Finding characters with lazy matching: ', lazyResult);
+
+// Use /\w/g instead of /[a-zA-Z0-9_]+/
+
+let quoteV2 = "The five boxing wizards jump quickly.";
+let alphabetRegexV2 = /\w/g; // Change this line
+let resV2 = quoteV2.match(alphabetRegexV2).length;
+
+console.log('Backslash w instead of a-zA-Z0-9_: ', resV2);
