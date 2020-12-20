@@ -50,3 +50,12 @@ let wildResult = unRegex.test(exampleStr);
 console.log('Using wildcard matching: ', wildResult);
 
 // strings such as: run, sun, fun, pun, bun will match the above regex.
+
+// Test the end of strings using the anchor character, $.
+
+let caboose = "The last car on a train is the caboose";
+let anchorRegex = /caboose$/;
+let anchorResult = anchorRegex.test(caboose);
+
+console.log('Test using anchor character: ', anchorResult);
+
