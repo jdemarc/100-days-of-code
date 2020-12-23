@@ -21,3 +21,11 @@
 **Thoughts**: The challenges weren't as fulfilling as I hoped. They were small in terms of 'requirements', so if you looked up how to do something, it essentially gave you the answer to the challenge. It was good exposure either way though. The deploying part of today was because yesterday someone had asked me about it, and we couldn't get it to work. But, today, I was able to deploy it in less than ten minutes. It makes me curious what was going wrong.
 
 **Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
+
+### Day 56, December 23, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
