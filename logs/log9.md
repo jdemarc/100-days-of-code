@@ -24,7 +24,7 @@
 
 ### Day 56, December 23, 2020
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the 'Everything Be True' challenge.
 
 **Thoughts**: 
 
