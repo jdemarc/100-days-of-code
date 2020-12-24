@@ -32,8 +32,8 @@
 
 ### Day 57, December 24, 2020
 
-**Today's Progress**: 
+**Today's Progress**: I worked with regular expressions today. I did a few lessons and a 'challenge' in the lesson.
 
-**Thoughts**: 
+**Thoughts**: The challenge was the most notable part of the hour. It seemed much more particular than I was expecting. Because of this, the way I was thinking about it was wrong. I am just continuously checking how I think about these problems and challenges. Hopefully, growing a little each time.
 
 **Link to work**: [Regular Expressions](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/regular-expressions)
