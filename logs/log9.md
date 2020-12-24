@@ -29,3 +29,11 @@
 **Thoughts**: For a long time, I was floating around the correct answer, but I just couldn't lock it in. I had to check the key, and I was close. I wanted to iterate through the collection and check for when the property was undefined. I knew the functions I had to use, I just couldn't figure out how to implement them. But, I got through it, and I'll be paying more close attention to how you can check for all truthy values.
 
 **Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
+
+### Day 57, December 24, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: [Regular Expressions](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/regular-expressions)

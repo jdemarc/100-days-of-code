@@ -99,3 +99,26 @@ let alphabetRegexV2 = /\w/g; // Change this line
 let resV2 = quoteV2.match(alphabetRegexV2).length;
 
 console.log('Backslash w instead of a-zA-Z0-9_: ', resV2);
+
+// Match everything BUT alphanumeric characters -- use \W.
+
+let quoteV3 = "The five boxing wizards jump quickly.";
+let nonAlphabetRegexV2 = /\W/g;
+let resV3 = quoteV3.match(nonAlphabetRegexV2).length;
+
+console.log('Everything but alphanumeric: ', resV3);
+
+// Match 0-9 using \d.
+
+let movieName = "2001: A Space Odyssey";
+let numRegex = /\d/g;
+let movieRes = movieName.match(numRegex);
+
+console.log('Matching numbers with d: ', movieRes);
+
+// Match all non numbers using \D.
+
+let nonNumRegex = /\D/g; // Change this line
+movieRes = movieName.match(nonNumRegex);
+
+console.log('Matching numbers with D: ', movieRes);
