@@ -76,3 +76,12 @@ let haRegex = /haz{4,}ah/i;
 let haResult = haRegex.test(haStr);
 
 console.log('Testing with quantity specifers, specifying only lower limit: ', haResult);
+
+// Match the exact amount of a quantity by just putting an integer in the braces.
+// {4}
+
+let timStr = "Timmmmber";
+let timRegex = /tim{4}ber/i;
+let timResult = timRegex.test(timStr);
+
+console.log('Testing with specific quantity: ', timResult);
