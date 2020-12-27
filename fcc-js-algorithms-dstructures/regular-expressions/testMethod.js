@@ -66,3 +66,13 @@ let ohRegex = /oh{3,6}\sno/i;
 let ohResult = ohRegex.test(ohStr);
 
 console.log('Testing with quantity specifers: ', ohResult);
+
+// Specify only the lower number of matches.
+
+let haStr = "Hazzzah";
+let haRegex = /haz{4,}ah/i;
+// the above regex says there must be at least 4 z's
+
+let haResult = haRegex.test(haStr);
+
+console.log('Testing with quantity specifers, specifying only lower limit: ', haResult);
