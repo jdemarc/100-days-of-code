@@ -1,7 +1,15 @@
 ### Day 58, December 27, 2020
 
-**Today's Progress**: Continued with regular expressions (almost done!). Topics: whitespace matching (\s), nonwhitespace matching (\S), quantity specifiers ({}), quantity specifiers with no upper limit({3,}), quantity specifier with specific limit ({3}),
+**Today's Progress**: Continued with regular expressions (almost done!).
+Topics: 
+- whitespace matching (\s)
+- nonwhitespace matching (\S)
+- quantity specifiers ({})
+- quantity specifiers with no upper limit({3,})
+- quantity specifier with specific limit ({3})
 
-**Thoughts**: 
+**Thoughts**: Today was a nice introduction back into my routine following time away.. I'm hoping to wrap up regular expressions, maybe use them a little, and get into a project of time kind.
+
+**Additional Link(s)**: https://regex101.com/
 
 **Link to work**: [Regular Expressions](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/regular-expressions)
