@@ -59,3 +59,10 @@ let anchorResult = anchorRegex.test(caboose);
 
 console.log('Test using anchor character: ', anchorResult);
 
+// Quantity specifiers, { }
+
+let ohStr = "Ohhh no";
+let ohRegex = /oh{3,6}\sno/i;
+let ohResult = ohRegex.test(ohStr);
+
+console.log('Testing with quantity specifers: ', ohResult);

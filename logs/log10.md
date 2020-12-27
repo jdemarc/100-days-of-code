@@ -1,6 +1,6 @@
 ### Day 58, December 27, 2020
 
-**Today's Progress**: Continued with regular expressions (almost done!). Topics: whitespace matching (\s), nonwhitespace matching (\S), 
+**Today's Progress**: Continued with regular expressions (almost done!). Topics: whitespace matching (\s), nonwhitespace matching (\S), quantity specifiers ({}),
 
 **Thoughts**: 
 
