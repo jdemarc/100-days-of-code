@@ -130,3 +130,11 @@ let countWhiteSpace = /\s/g;
 let whiteSpaceResult = whiteSpaceSample.match(countWhiteSpace);
 
 console.log("Matching whitespaces: ", whiteSpaceResult)
+
+// Match everything EXCEPT whitespace using \S.
+
+let countNonWhiteSpace = /\S/g;
+let nonWhiteSpaceResult = whiteSpaceSample.match(countNonWhiteSpace);
+
+console.log("Matching non-whitespaces: ", nonWhiteSpaceResult)
+
