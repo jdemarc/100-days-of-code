@@ -1,6 +1,6 @@
 ### Day 58, December 27, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Continued with regular expressions (almost done!). Topics: whitespace matching, 
 
 **Thoughts**: 
 

@@ -122,3 +122,11 @@ let nonNumRegex = /\D/g; // Change this line
 movieRes = movieName.match(nonNumRegex);
 
 console.log('Matching numbers with D: ', movieRes);
+
+// Match whitespaces with \s.
+
+let whiteSpaceSample = "Whitespace is important in separating words";
+let countWhiteSpace = /\s/g;
+let whiteSpaceResult = whiteSpaceSample.match(countWhiteSpace);
+
+console.log("Matching whitespaces: ", whiteSpaceResult)
