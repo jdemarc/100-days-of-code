@@ -21,3 +21,5 @@ You need to check all the usernames in a database. Here are some simple rules th
 let username = "JackOfAllTrades";
 let userCheck = /^[a-z][a-z]+\d*$|^[a-z]\d\d+$/i;
 let result = userCheck.test(username);
+
+console.log('Result: ', result);
