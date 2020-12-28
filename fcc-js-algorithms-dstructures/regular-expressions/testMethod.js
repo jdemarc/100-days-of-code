@@ -85,3 +85,12 @@ let timRegex = /tim{4}ber/i;
 let timResult = timRegex.test(timStr);
 
 console.log('Testing with specific quantity: ', timResult);
+
+// Check for possible existence of an element with ?.
+// the 'previous element is optional'
+
+let favWord = "favorite";
+let favRegex = /favou?rite/;
+let favResult = favRegex.test(favWord);
+
+console.log('Test for optional element: ', favResult);
