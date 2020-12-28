@@ -19,6 +19,7 @@ Topics:
 **Today's Progress**:
 Topics: 
 - Optional elements (?)
+- Lookaheads (?=..., ?!...)
 
 
 **Thoughts**: 

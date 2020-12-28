@@ -94,3 +94,13 @@ let favRegex = /favou?rite/;
 let favResult = favRegex.test(favWord);
 
 console.log('Test for optional element: ', favResult);
+
+// Look aheads.
+// Check for a pattern further along within the string.
+// Negative lookaheads allow you to check a pattern DOES NOT exist further along in the string.
+
+let sampleWord = "astronaut";
+let pwRegex = /^\D(?=\w{5})(?=\w*\d{2})/;
+let pwResult = pwRegex.test(sampleWord);
+
+console.log('Lookahead test: ', pwResult);
