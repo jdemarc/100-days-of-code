@@ -16,16 +16,15 @@ Topics:
 
 ### Day 59, December 27, 2020
 
-**Today's Progress**:
+**Today's Progress**: I completed FCC's regular expression lesson.
+
 Topics: 
 - Optional elements (?)
 - Lookaheads (?=..., ?!...)
 - Mixed grouping (P(engu|umpki)n)
 - Capture groups (\1\2...)
+- .replace()
 
-
-**Thoughts**: 
-
-**Additional Link(s)**:
+**Thoughts**: Capture group lesson just before replace method talks about not repeating matches, but then repeats matches. 
 
 **Link to work**: [Regular Expressions](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/regular-expressions)

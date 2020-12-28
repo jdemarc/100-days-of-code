@@ -113,3 +113,9 @@ let presRegex = /(Eleanor|Franklin).*Roosevelt/;
 let presResult = presRegex.test(presString);
 
 console.log('Mixed grouping with (): ', presResult);
+
+let repeatNum = "42 42 42";
+let reRegex = /^(\d+)\s\1\s\1$/;
+let reResult = reRegex.test(repeatNum);
+
+console.log('Test with capture groups: ', reResult);

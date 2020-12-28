@@ -138,9 +138,3 @@ let nonWhiteSpaceResult = whiteSpaceSample.match(countNonWhiteSpace);
 
 console.log("Matching non-whitespaces: ", nonWhiteSpaceResult)
 
-// Using capture groups to specify where a pattern appears.
-
-let repeatNum = "42 42 42";
-let reRegex = /^(\d+)\s\1\s\1$/;
-let reResult = reRegex.test(repeatNum);
-
