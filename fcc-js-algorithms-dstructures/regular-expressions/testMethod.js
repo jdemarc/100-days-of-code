@@ -104,3 +104,12 @@ let pwRegex = /^\D(?=\w{5})(?=\w*\d{2})/;
 let pwResult = pwRegex.test(sampleWord);
 
 console.log('Lookahead test: ', pwResult);
+
+// Mixed grouping.
+// Check for groupings of characters using parentheses ().
+
+let presString = "Eleanor Roosevelt";
+let presRegex = /(Eleanor|Franklin).*Roosevelt/;
+let presResult = presRegex.test(presString);
+
+console.log('Mixed grouping with (): ', presResult);

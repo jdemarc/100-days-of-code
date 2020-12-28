@@ -20,6 +20,7 @@ Topics:
 Topics: 
 - Optional elements (?)
 - Lookaheads (?=..., ?!...)
+- Mixed grouping (P(engu|umpki)n)
 
 
 **Thoughts**: 
