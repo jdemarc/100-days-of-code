@@ -25,6 +25,6 @@ Topics:
 - Capture groups (\1\2...)
 - .replace()
 
-**Thoughts**: Capture group lesson just before replace method talks about not repeating matches, but then repeats matches. 
+**Thoughts**: Capture group lesson just before replace method talks about not repeating matches, but then repeats matches in the replace method. In most cases, I think FCC does a good job at progressing to the next challenge or lesson. Today, I didn't feel that way. I think there were 'leaps' that needed to be built on more. But-- maybe it's just me, and I wasn't in the most excited mood. I'm hoping that changes and I can better mentally prepare myself for the sessions.
 
 **Link to work**: [Regular Expressions](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/regular-expressions)
