@@ -31,8 +31,8 @@ Topics:
 
 ### Day 60, December 29, 2020
 
-**Today's Progress**:
+**Today's Progress**: Today I worked on a challenge, arguments optional. It is incomplete.
 
-**Thoughts**:
+**Thoughts**: I'm taking a bit more time today and next session to really think about this challenge. I'm back again trying not to default to looking up the answer, and I really felt I was able to more deeply think today. I may not have the answer yet, but it is leading me to explore different things... arguments, functions, and other important JavaScript.
 
-**Link to work**:
+**Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)

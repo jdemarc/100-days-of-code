@@ -6,10 +6,26 @@
  */
 
 function addTogether() {
-  console.log(...arguments);
-  console.log(arguments.length);
+
   
+  let args = [...arguments];
+
+  let valid = function (args) {
+    for (let i = 0; i < args.length; i++) {
+      if (typeof args[i] !== "number") {
+        console.log(args[i]);
+        return undefined;
+      }
+    }
+  }
+
+  valid(args);
+
   return false;
 }
 
 console.log(addTogether(2, 3));
+// console.log(addTogether(5)(7));
+console.log(addTogether("http://bit.ly/IqT6zt"));
+console.log(addTogether(2, "3"));
+// console.log(addTogether(2)([3]));
