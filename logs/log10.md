@@ -39,8 +39,8 @@ Topics:
 
 ### Day 61, December 30, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Walked through solution to Arguments Optional, Make A Person, and staged for the last one, Map the Debris. This required some reading about orbital periods.
 
-**Thoughts**:
+**Thoughts**: Although I didn't quite solve the first challenge of the day, I walked through it very slowly, and it made sense without any issue. For the second challenge, one thing I find difficult is when variables are set to functions. It's the syntax that messes me up. I'm fairly confident that, when I get to a company, the syntax will be uniform and much easier to get used to and stick to. But, I shouldn't let that be a basis... I should be exposed to all kinds of syntaxes.
 
 **Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
