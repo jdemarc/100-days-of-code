@@ -44,3 +44,13 @@ Topics:
 **Thoughts**: Although I didn't quite solve the first challenge of the day, I walked through it very slowly, and it made sense without any issue. For the second challenge, one thing I find difficult is when variables are set to functions. It's the syntax that messes me up. I'm fairly confident that, when I get to a company, the syntax will be uniform and much easier to get used to and stick to. But, I shouldn't let that be a basis... I should be exposed to all kinds of syntaxes.
 
 **Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
+
+### Day 62, December 31, 2020
+
+**Today's Progress**: I walked through the Map Debris challenge. I started watching a tutorial for some simple browser games. In particular, Flappy Bird.
+
+**Thoughts**: I'm going to try to do a bit of a fun project coming up to keep things interesting. I'm going to start by watching a tutorial and see if I can make a game more 'my own'.
+
+**Additional Link(s)**: [Doodle Jump/Flappy Bird Tutorial](https://www.youtube.com/watch?v=8xPsg6yv7TU)
+
+**Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
