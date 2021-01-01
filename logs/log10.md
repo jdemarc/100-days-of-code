@@ -54,3 +54,13 @@ Topics:
 **Additional Link(s)**: [Doodle Jump/Flappy Bird Tutorial](https://www.youtube.com/watch?v=8xPsg6yv7TU)
 
 **Link to work**: [Intermediate Challenges](https://github.com/jdemarc/100-days-of-code/tree/main/fcc-js-algorithms-dstructures/intermediate-algorithm-scripting)
+
+### Day 63, January 1, 2021
+
+**Today's Progress**: Today I set up the boilerplate for a new project, pixel dodge. I added files and styling. I should begin some JavaScript tomorrow.
+
+**Thoughts**: I feel fairly good about this little project. It will be sort of a vertically oriented, modified flappy bird. It's nothing really crazy, but it's different than coding challenges and gets me back using DOM elements (which has been a little bit). It also makes me go back to CSS. We'll see what happens!
+
+**Additional Link(s)**: [Doodle Jump/Flappy Bird Tutorial](https://www.youtube.com/watch?v=8xPsg6yv7TU)
+
+**Link to work**: [Pixel Dodge](https://github.com/jdemarc/pixel-dodge)
