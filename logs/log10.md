@@ -64,3 +64,13 @@ Topics:
 **Additional Link(s)**: [Doodle Jump/Flappy Bird Tutorial](https://www.youtube.com/watch?v=8xPsg6yv7TU)
 
 **Link to work**: [Pixel Dodge](https://github.com/jdemarc/pixel-dodge)
+
+### Day 64, January 2, 2021
+
+**Today's Progress**: Started adding some JavaScript! I can move my 'ship' around the screen with the arrow keys.
+
+**Thoughts**: It felt pretty good to be able to move something around on screen. Seeing progress is a pretty large thing for me. Following the tutorial, I'm noticing there are a few things that work without my full understanding, so I need to make note of that and check them out further. For example, all of the JavaScript is wrapped in a function.
+
+**Additional Link(s)**: [Doodle Jump/Flappy Bird Tutorial](https://www.youtube.com/watch?v=8xPsg6yv7TU)
+
+**Link to work**: [Pixel Dodge](https://github.com/jdemarc/pixel-dodge)
