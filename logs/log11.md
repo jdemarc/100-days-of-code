@@ -17,3 +17,13 @@
 **Additional Link(s)**: [Doodle Jump/Flappy Bird Tutorial](https://www.youtube.com/watch?v=8xPsg6yv7TU)
 
 **Link to work**: [Pixel Dodge](https://github.com/jdemarc/pixel-dodge)
+
+### Day 67, January 5, 2021
+
+**Today's Progress**: Added 'Game Over' to screen. Stop obstacles on impact. Stop generation of new obstacles on impact. Add fake replay button. Adjust styling.
+
+**Thoughts**: The game is coming along nicely. Two things are for sure though. I want to be able to hit a replay button, and I want to make it look more fun. It's starting to get a bit more hectic by adding other features because they're all being added through createElement. Things are becoming less DRY, and I don't like that. But with a few images it could look like the real deal.
+
+**Additional Link(s)**: [Doodle Jump/Flappy Bird Tutorial](https://www.youtube.com/watch?v=8xPsg6yv7TU)
+
+**Link to work**: [Pixel Dodge](https://github.com/jdemarc/pixel-dodge)
