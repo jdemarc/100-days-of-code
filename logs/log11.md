@@ -27,3 +27,13 @@
 **Additional Link(s)**: [Doodle Jump/Flappy Bird Tutorial](https://www.youtube.com/watch?v=8xPsg6yv7TU)
 
 **Link to work**: [Pixel Dodge](https://github.com/jdemarc/pixel-dodge)
+
+### Day 68, January 6, 2021
+
+**Today's Progress**: Implemented a 'replay' button.
+
+**Thoughts**: I wanted to do something with a replay button that was added to the DOM and reset the game container, but it was giving me a lot of trouble. When I googled how to reset the browser, [Dummies](https://www.dummies.com/programming/programming-games/how-to-reset-your-html5-game/) gave me a simple trick to update the location.href to an empty string. This clears out any appended children by refreshing the browser. I don't know if this is a good or bad method, but it works pretty well!
+
+**Additional Link(s)**: [Doodle Jump/Flappy Bird Tutorial](https://www.youtube.com/watch?v=8xPsg6yv7TU)
+
+**Link to work**: [Pixel Dodge](https://github.com/jdemarc/pixel-dodge)
