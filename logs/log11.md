@@ -37,3 +37,13 @@
 **Additional Link(s)**: [Doodle Jump/Flappy Bird Tutorial](https://www.youtube.com/watch?v=8xPsg6yv7TU)
 
 **Link to work**: [Pixel Dodge](https://github.com/jdemarc/pixel-dodge)
+
+### Day 69, January 8, 2021
+
+**Today's Progress**: I worked on styling features. The player's square is now a ship, and the obstacle that falls is an 'asteroid'.
+
+**Thoughts**: It felt a little tedious as I'm wrapping things up. The picture must match the boundaries, or you get game overs when it looks like you are not touching the ship or obstacle. I think, besides basic refinement likes borders, the last thing I need is the title somewhere. It looks pretty amateur, but it was a venture into something I hadn't ever done before. Moving objects and the logic surrounding that.
+
+**Additional Link(s)**: [Doodle Jump/Flappy Bird Tutorial](https://www.youtube.com/watch?v=8xPsg6yv7TU)
+
+**Link to work**: [Pixel Dodge](https://github.com/jdemarc/pixel-dodge)
