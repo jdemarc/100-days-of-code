@@ -47,3 +47,11 @@
 **Additional Link(s)**: [Doodle Jump/Flappy Bird Tutorial](https://www.youtube.com/watch?v=8xPsg6yv7TU)
 
 **Link to work**: [Pixel Dodge](https://github.com/jdemarc/pixel-dodge)
+
+### Day 70, January 9, 2021
+
+**Today's Progress**: Added background, title, readme, and other small modifications.
+
+**Thoughts**: It's about time to wrap up this little project. I'm starting to get a bit fatigued returning to it. I suppose my attention is just running out for the concept. But, it is at a reasonable stopping point. Overall, not too bad! I feel that it's super amateur, but it's still something, and it's not a clone of Flappy bird.
+
+**Link to work**: [Pixel Dodge](https://github.com/jdemarc/pixel-dodge)
