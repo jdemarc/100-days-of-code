@@ -7,15 +7,19 @@ function rot13(str) {
   console.log(String.fromCharCode(70));
 
   let decoded = '';
+  let regex = /[A-Z]/g;
 
   for (let i = 0; i < str.length; i++) {
-    if (str[i] === ' ') {
-      decoded += ' ';
+    if (str[i] === ' ' || 
+        str[i] === '.' ||
+        str[i] === '!' ||
+        str[i] === '?' ) {
+      decoded += str[i];
     } else {
       decoded += String.fromCharCode((str.charCodeAt(i) % 26) + 65)
     }
-
   }
+
   return decoded;
 }
 
