@@ -1,0 +1,91 @@
+/* Combine the class selector with other selectors. */
+
+/* Level 7
+Select the small oranges. */
+orange.small {
+
+}
+
+/* Level 8
+Select the small oranges in the bentos. */
+bento orange.small {
+
+}
+
+/* Level 9
+Select all the plates and bentos */
+plate, bento {
+
+}
+
+/* Level 11
+Select everything on the plates. */
+plate * {
+
+}
+
+/* Level 12
+Select every apple that's next to a plate.
+Select an element that directly follows another elmenent 
+
+This selects all B elements that directly follow A.
+Elements that follow one another are called siblings.
+They're on the same level, or depth.
+
+div + a selects every a element that directly follows a div
+*/
+apple + plate {
+
+}
+
+/* Level 13
+Select the pickles besides the bento.
+
+General sibling selector.
+Select elements that follows another element. 
+
+A ~B selects all B that follow a A
+*/
+bento ~ pickle {
+
+}
+
+/* Level 14
+Select the apple directly on a plate.
+
+Child selector.
+Seect direct children of an element.
+
+A > B selects all B that are a direct child of A.
+*/
+plate > apple {
+
+}
+
+/* Level 15
+Select the top orange.
+
+First child pseudo-selector.
+Select a first child element inside of another child.
+
+:first-child selects all first child elements.
+p:first-child select all first child <p> elements.
+div p:first-child selects all first child <p> elements that are in a <div>
+*/
+plate orange:first-child {
+
+}
+
+/* Level 16
+Select the apple and the pickle on the plates.
+
+Only child pseudo-selector.
+Select an element that are the only element inside of another one.
+
+span:only-child selects the <span> elements that are the only child of some other element.
+ul li:only-cild selects the only <li> element that are in a <ul>
+*/
+plate apple:only-child, plate pickle:only-child {
+
+}
+

@@ -19,3 +19,9 @@
 **Today's Progress**: I worked on CSS stuff. I completed the little game, http://www.flexboxdefense.com/.
 
 **Thoughts**: Trying to keep it interesting and still relevant. Although flexbox is a pretty niche subject, I think it's a powerful tool for styling. I've used it plenty on projects from bootcamp. CSS is always a subject where I kind of play around with it until I get what I want. I'd rather know how to just approach it from the start, so I'm working on that.
+
+### Day 74, January 14, 2021
+
+**Today's Progress**: Played CSS Diner, found at https://flukeout.github.io/.
+
+**Thoughts**:
