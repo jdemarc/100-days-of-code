@@ -89,3 +89,19 @@ plate apple:only-child, plate pickle:only-child {
 
 }
 
+/* Level 17
+Select the small apple and the pickle.
+
+Last child pseudo-selector.
+Select the last element inside of another element.
+
+:last-child selects all last-child elements.
+span:last-child selects all last-child <span> elements.
+ul li:last-child selects the last <li> element that is in <ul>
+*/
+apple:last-child, pickle:last-child {
+  
+}
+
+/* Since there is only one element, the apple and pickle count as
+first-child, only-child, last-child*/

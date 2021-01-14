@@ -24,4 +24,4 @@
 
 **Today's Progress**: Played CSS Diner, found at https://flukeout.github.io/.
 
-**Thoughts**:
+**Thoughts**: Working on selectors today. Skipped the easier stuff. But, I always tend to just give things a unique class or id and never give any thought to using selectors appropriately. So today was about acknowledging, one, that I don't use selectors as I should, and two, practicing them. Not much code but there is a lot of note-taking.
