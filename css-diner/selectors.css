@@ -1,0 +1,219 @@
+/* Combine the class selector with other selectors. */
+
+/* Level 7
+Select the small oranges. */
+orange.small {
+
+}
+
+/* Level 8
+Select the small oranges in the bentos. */
+bento orange.small {
+
+}
+
+/* Level 9
+Select all the plates and bentos */
+plate, bento {
+
+}
+
+/* Level 11
+Select everything on the plates. */
+plate * {
+
+}
+
+/* Level 12
+Select every apple that's next to a plate.
+Select an element that directly follows another elmenent 
+
+This selects all B elements that directly follow A.
+Elements that follow one another are called siblings.
+They're on the same level, or depth.
+
+div + a selects every a element that directly follows a div
+*/
+apple + plate {
+
+}
+
+/* Level 13
+Select the pickles besides the bento.
+
+General sibling selector.
+Select elements that follows another element. 
+
+A ~B selects all B that follow a A
+*/
+bento ~ pickle {
+
+}
+
+/* Level 14
+Select the apple directly on a plate.
+
+Child selector.
+Seect direct children of an element.
+
+A > B selects all B that are a direct child of A.
+*/
+plate > apple {
+
+}
+
+/* Level 15
+Select the top orange.
+
+First child pseudo-selector.
+Select a first child element inside of another child.
+
+:first-child selects all first child elements.
+p:first-child select all first child <p> elements.
+div p:first-child selects all first child <p> elements that are in a <div>
+*/
+plate orange:first-child {
+
+}
+
+/* Level 16
+Select the apple and the pickle on the plates.
+
+Only child pseudo-selector.
+Select an element that are the only element inside of another one.
+
+span:only-child selects the <span> elements that are the only child of some other element.
+ul li:only-cild selects the only <li> element that are in a <ul>
+*/
+plate apple:only-child, plate pickle:only-child {
+
+}
+
+/* Level 17
+Select the small apple and the pickle.
+
+Last child pseudo-selector.
+Select the last element inside of another element.
+
+:last-child selects all last-child elements.
+span:last-child selects all last-child <span> elements.
+ul li:last-child selects the last <li> element that is in <ul>
+*/
+apple:last-child, pickle:last-child {
+  
+}
+
+/* Since there is only one element, the apple and pickle count as
+first-child, only-child, last-child*/
+
+/* Level 18
+Select the third plate.
+
+Nth child pseudo selector.
+Select an element by its order in another element.
+
+:nth-child(A)
+
+:nth-child(8) selects every element that is the 8th child of another element.
+
+div p:nth-child(2) selects the second p in every div.
+*/
+
+plate:nth-child(3) {
+
+}
+
+/* Level 19
+Select the 1st bento.
+
+Nth last child selector.
+Select an element by its order in another element, counting from the back.
+
+:nth-last-child(A)
+
+Selects the children from the bottom of the parent. This is like nth-child,
+but counting from the back.
+
+:nth-last-child(2) selects all second-to-last child elements.
+*/
+bento:nth-last-child(3) {
+
+}
+
+/* Level 20
+Select the first apple.
+
+First of type selector.
+Select the first element of a specific type.
+
+:first-of-type.
+Selects the first element of that type within another element.
+
+span:first-of-type selects the first <span> in any element.
+*/
+apple:first-of-type {
+
+}
+
+/* Level 21
+Select all even plates.
+
+Nth of type selector.
+:nth-of-type()
+
+Selects a specific element based on its type and order in another element
+or even or odd instance of that element.
+
+div:nth-of-type(2) selects the second instance of a div.
+
+.example:nth-of-type(odd) selects all odd instances of the example class.
+*/
+plate:nth-of-type(even) {
+
+}
+
+/* Level 22
+Select every 2nd plate, starting from the 3rd.
+
+:nth-of-type() selector with formula.
+:nth-of-type(An+B)
+
+span:nth-of-type(6n+2) selects every 6th instance of a span,
+starting from and including the second instance.
+*/
+plate:nth-of-type(2n+3) {
+
+}
+
+/* Level 23
+Select the apple on the middle plate.
+
+Only of type selector.
+Select elements that are the only ones of their type within their parent element.
+
+:only-of-type.
+Selects the only element of its type within another element.
+
+p span:only-of-type selects a span within any p if it is
+the only span in there.
+*/
+plate apple:only-of-type {
+
+}
+
+/* Level 24
+Select the last apple and organce.
+
+Last of type selector.
+Select the last element of a specific type.
+
+:last-of-type
+Selects each last element of that type within another element.
+Remember type refers to the kind of take, so <p>, <span>
+
+div:last-of-type selects the last <div> in every element.
+p span:last-of-type selects the last <span> in every <p>
+*/
+apple:last-of-type, orange:last-of-type {
+  
+}
