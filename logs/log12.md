@@ -34,6 +34,6 @@
 
 ### Day 76, January 16, 2021
 
-**Today's Progress**: Completed the [CSS Diner](https://flukeout.github.io/).
+**Today's Progress**: Completed the [CSS Diner](https://flukeout.github.io/). Add Telephone Number Validator challenge.
 
 **Thoughts**: Touched on a lot of different selectors... empty, not, attribute, attribute value, attribute starts with, ends with, and wildcard. I think overall it was good to refresh these things in my head. I think I had done this a while ago, but I had forgotten all about it. So, next time, maybe these exercises will pop back into my head when styling with CSS.
