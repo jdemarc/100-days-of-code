@@ -217,3 +217,119 @@ p span:last-of-type selects the last <span> in every <p>
 apple:last-of-type, orange:last-of-type {
   
 }
+
+/* Level 25
+Select the empty bentos.
+
+Empty selector.
+Select elements that don't have children.
+
+:empty
+
+Selects elements that don't have any other elements inside of them.
+
+div:empty select all empty div elements.
+*/
+bento:empty {
+
+}
+
+/* Level 26
+Select the big apples.
+
+Negation pseudo-class.
+Select all elements that don't match the negation selector.
+
+:not(X)
+Use this to select all elements that do not match selector 'X'.
+
+:not(#fancy) selects all elements that do not have the id of fancy.
+div:not(:first-child) selects every div that is not a first child.
+:not(.big, .medium( selects all elements that do not have the class of big or medium.
+*/
+apple:not(.small) {
+
+}
+
+/* Level 27
+Select the items for someone.
+
+Attribute selector.
+Select all elements that have a specific attribute.
+[attribute]
+
+Attributes appear inside the opening tag of an element. <span attribute="value">
+
+a[href] selects all <a> elements that have a href="anything" attribute.
+
+[type] selects all elements that have a type="anything" attribute.
+*/
+[for] {
+
+}
+
+/* Level 28
+Select the plates for someone.
+
+Attribute selector.
+Select all elements that have a specific attribute.
+A[attribute]
+
+Combine the attribute selector with another selector (like the tag name selector)
+by adding it ot the end.
+
+[value] selects all elements that have a value="anything" attribute.
+*/
+plate[for] {
+
+}
+
+/* Level 29
+Select Vitaly's meal.
+
+Attribute vlaue selector.
+Select all elements that have a specific attribute value.
+[attribute="value"]
+
+Attribute selectors are case sensitive, each character must match exactly.
+
+input[type="checkbox"] selects all checkbox input elements.
+*/
+[for="Vitaly"] {
+
+}
+
+/* Level 30
+Select the items for names that start with 'Sa'.
+
+Attribute starts with selector.
+Select all elements with an attribute value that starts with specific characters.
+[attribute^="value"]
+
+.toy[category^="Swim"] selects for category="Swimwear" and category="Swimming"
+*/
+[for^="Sa"] {
+
+}
+
+/* Level 31
+Select the items for names that end with "ato".
+
+...
+
+[attribute$="value"]
+*/
+[for$="ato"] {
+
+}
+
+/* Level 32
+Select the meals for names that contain 'obb'.
+
+...
+
+[attribute*="value"]
+*/
+[for*="obb"] {
+  
+}

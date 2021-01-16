@@ -31,3 +31,9 @@
 **Today's Progress**: Continued [CSS Diner](https://flukeout.github.io/).
 
 **Thoughts**: Getting a little bit more fancy with the selectors. This session was done in the evening, and I think it's a poor habit to be in. Getting things done and out of the way early is more my speed. But, again, I shouldn't be viewing this as something I just want to get out of the way.
+
+### Day 76, January 16, 2021
+
+**Today's Progress**: Completed the [CSS Diner](https://flukeout.github.io/).
+
+**Thoughts**: Touched on a lot of different selectors... empty, not, attribute, attribute value, attribute starts with, ends with, and wildcard. I think overall it was good to refresh these things in my head. I think I had done this a while ago, but I had forgotten all about it. So, next time, maybe these exercises will pop back into my head when styling with CSS.
