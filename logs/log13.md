@@ -13,3 +13,9 @@
 **Thoughts**: This project was called intermediate, but it only took me two hours or so to complete. I'm strongly considering adding cards which adjust the timer and consideration for mobile. Flexboxes make things easier, I think, but they require a few layers of nesting to properly center.
 
 **Links**: [Launch countdown timer](https://github.com/jdemarc/launch-countdown-timer).
+
+### Day 79, January 19, 2021
+
+**Today's Progress**: I started with FreeCodeCamp's Bootstrap challenges. I completed several Salesforce developer modules.
+
+**Thoughts**: I was indecisive today. I spent several hours working on Salesforce developer lessons. Then I looked around at Frontend Mentor challenges to see if anything peaked my interest. I decided to re-practice Bootstrap through FreeCodeCamp since I have been spending most of my sessions with them.
