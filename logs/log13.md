@@ -19,3 +19,9 @@
 **Today's Progress**: I started with FreeCodeCamp's Bootstrap challenges. I completed several Salesforce developer modules.
 
 **Thoughts**: I was indecisive today. I spent several hours working on Salesforce developer lessons. Then I looked around at Frontend Mentor challenges to see if anything peaked my interest. I decided to re-practice Bootstrap through FreeCodeCamp since I have been spending most of my sessions with them.
+
+### Day 80, January 20, 2021
+
+**Today's Progress**: I completed 32% of FCC's Bootstrap lesson.
+
+**Thoughts**: I feel that Bootstrap was something I really experimented with while I was in my software engineering boot camp. Personally, I really like it. It's super convenient, gets rid of almost all of my custom CSS, and to me is intuitive. The references for Bootstrap are also very user friendly. The only thing I worry about with Bootstrap is if there is anything performance related to adding a bunch of classes to an element. I would think not? but I'd have to look it up.
