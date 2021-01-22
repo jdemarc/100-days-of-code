@@ -25,3 +25,9 @@
 **Today's Progress**: I completed 32% of FCC's Bootstrap lesson.
 
 **Thoughts**: I feel that Bootstrap was something I really experimented with while I was in my software engineering boot camp. Personally, I really like it. It's super convenient, gets rid of almost all of my custom CSS, and to me is intuitive. The references for Bootstrap are also very user friendly. The only thing I worry about with Bootstrap is if there is anything performance related to adding a bunch of classes to an element. I would think not? but I'd have to look it up.
+
+### Day 81, January 21, 2021
+
+**Today's Progress**: I completed up to 71% of FCC's Bootstrap lesson.
+
+**Thoughts**: It's starting to come back to me. Put everything in a row, and then put each thing in a column. Bootstrap uses 12 as it's column divisions. Although very 'simple', it can be repetitive. If you have an app with a lot of choices or columns, you will be nesting things into columns fairly often. I'm also a pretty large fan of how easy it is to center things wih text-center and make things responsive with container-fluid. I realize this isn't a super challenging lesson, but it should be wrapped up by tomorrow and I can go back to something a little more testing.
