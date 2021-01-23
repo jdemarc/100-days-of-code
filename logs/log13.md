@@ -34,6 +34,6 @@
 
 ### Day 82, January 23, 2021
 
-**Today's Progress**: 
+**Today's Progress**: I completed FCC's Bootstrap lesson.
 
-**Thoughts**: well, target
+**Thoughts**: If I learned anything from this lesson (that I did not know before), it was that there is a well and target class name. But, I still did get a repetition in with Bootstrap!
