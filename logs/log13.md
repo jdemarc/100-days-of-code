@@ -32,7 +32,7 @@
 
 **Thoughts**: It's starting to come back to me. Put everything in a row, and then put each thing in a column. Bootstrap uses 12 as it's column divisions. Although very 'simple', it can be repetitive. If you have an app with a lot of choices or columns, you will be nesting things into columns fairly often. I'm also a pretty large fan of how easy it is to center things wih text-center and make things responsive with container-fluid. I realize this isn't a super challenging lesson, but it should be wrapped up by tomorrow and I can go back to something a little more testing.
 
-### Day 82, January 23, 2021
+### Day 82, January 22, 2021
 
 **Today's Progress**: I completed FCC's Bootstrap lesson.
 
