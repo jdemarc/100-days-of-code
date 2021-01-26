@@ -6,6 +6,6 @@
 
 ### Day 84, January 25, 2021
 
-**Today's Progress**: Completed x of FCC's jQuery lesson.
+**Today's Progress**: Completed FCC's jQuery lesson.
 
-**Thoughts**: .remove(), .appendTo(), .clone(), .parent(), .children()
+**Thoughts**: The next day of jQuery showed me a few more things I hadn't seen before. Functions such as... .remove(), .appendTo(), .clone(), .parent(), .children(). I get the feeling you can do some pretty powerful selections from what I've seen. I'm still a bit curious about the library since this was only about 18 mini challenges.
