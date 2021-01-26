@@ -8,4 +8,4 @@
 
 **Today's Progress**: Completed x of FCC's jQuery lesson.
 
-**Thoughts**: .remove()
+**Thoughts**: .remove(), appendTo()
