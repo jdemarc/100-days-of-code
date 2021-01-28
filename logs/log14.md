@@ -17,3 +17,11 @@
 **Thoughts**: Althought I'm not regularly tweeting, as I really should be, I am maintaining a pretty regular presence coding. Really, I'm almost there. Just need to push through and keep coming up with ideas.
 
 **Links**: [URL Shortening](https://github.com/jdemarc/url-shortening-lp)
+
+### Day 86, January 28, 2021
+
+**Today's Progress**: I continued with the URL shortening project. I added HTML, broke it into sections, and added a small amount of styling.
+
+**Thoughts**: Back to formatting website elements. It still isn't a natural thing, but I think with enough practice it will be better. Flexbox, flexbox, flexbox. I don't know how I don't have it all memorized yet.
+
+**Links**: [URL Shortening](https://github.com/jdemarc/url-shortening-lp)
