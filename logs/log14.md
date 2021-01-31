@@ -25,3 +25,11 @@
 **Thoughts**: Back to formatting website elements. It still isn't a natural thing, but I think with enough practice it will be better. Flexbox, flexbox, flexbox. I don't know how I don't have it all memorized yet.
 
 **Links**: [URL Shortening](https://github.com/jdemarc/url-shortening-lp)
+
+### Day 87, January 30, 2021
+
+**Today's Progress**: I worked on the URL shortening project. I worked on styling the header element.
+
+**Thoughts**: Working with many nested containers can get confusing. But, I decided to break out a little pen and paper and sketch out what was going on. I think I got something manageable, and it looks like the design picture, so I can't complain.
+
+**Links**: [URL Shortening](https://github.com/jdemarc/url-shortening-lp)
